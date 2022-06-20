@@ -1,0 +1,45 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Roboto", sans-serif;
+}
+
+body {
+  background-color: #fff;
+}
+
+.container_pass {
+  width: 65%;
+  padding: 10px;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  border-radius: 10px;
+  margin: 30px auto;
+}
+
+table {
+  border-spacing: 1;
+  border-collapse: collapse;
+  background: white;
+  overflow: hidden;
+  width: 100%;
+  margin: 0 auto;
+  position: relative;
+}
+
+td,
+th {
+  padding-left: 8px;
+}
+
+th {
+  height: 40px;
+  background: khaki;
+  font-size: 16px;
+}
+
+tr {
+  height: 48px;
+  border: 1px solid khaki;
+}
+

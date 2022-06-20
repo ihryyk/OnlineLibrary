@@ -1,0 +1,117 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Roboto", sans-serif;
+}
+
+body {
+  background-color: #fff;
+}
+
+a {
+  display: block;
+  width: 100px;
+  height: 32px;
+  background: #3cb371;
+  color: #333;
+  text-align: center;
+  text-decoration: none;
+  border: none;
+  border-radius: 5px;
+  transition: 0.3s;
+}
+
+a:hover {
+  transform: scale(115%);
+}
+
+.logout {
+  margin-left: 20px;
+  margin-top: 10px;
+}
+
+.container_orders {
+  width: 65%;
+  padding: 10px;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  border-radius: 10px;
+  margin: 15px auto;
+}
+
+.container_passes {
+  width: 65%;
+  padding: 10px;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  border-radius: 10px;
+  margin: 15px auto;
+}
+
+li {
+  margin: 0 auto;
+  width: 90%;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  padding: 10px 0 10px 10px;
+}
+
+li + li {
+  margin-top: 20px;
+}
+.title {
+  font-size: 24px;
+}
+
+input[type="submit"] {
+  width: 100px;
+  height: 32px;
+  background: #3cb371;
+  margin-top: 15px;
+  margin-right: 10px;
+  border: none;
+  border-radius: 5px;
+  transition: 0.3s;
+}
+input[type="submit"]:hover {
+  transform: scale(110%);
+}
+
+table {
+  border-spacing: 1;
+  border-collapse: collapse;
+  background: white;
+  overflow: hidden;
+  width: 100%;
+  margin: 0 auto;
+  position: relative;
+}
+
+td,
+th {
+  padding-left: 8px;
+}
+
+th {
+  height: 40px;
+  background: khaki;
+  font-size: 16px;
+}
+
+tr {
+  height: 48px;
+  border: 1px solid khaki;
+}
+.btn_librarian {
+  margin: 10px;
+}
+
+table input {
+  width: 60px !important;
+}
+
+.btns_order {
+  display: flex;
+  justify-content: center;
+}

@@ -1,0 +1,44 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Roboto", sans-serif;
+}
+
+body {
+  background-color: #fff;
+}
+
+ul {
+  margin-top: 30px;
+  margin-left: 20px;
+  list-style-type: none;
+}
+
+li {
+  height: 50px;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  border-radius: 10px;
+  width: 800px;
+  font-size: 20px;
+  display: flex;
+  counter-increment: index;
+  padding: 12px 0;
+  box-sizing: border-box;
+}
+
+li:before {
+  counter-increment: li;
+  content: counters(index, ".", decimal-leading-zero);
+  font-variant-numeric: tabular-nums;
+  background-image: linear-gradient(to bottom, aquamarine, orangered);
+  background-attachment: fixed;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  margin-right: 10px;
+  margin-left: 10px;
+}
+
+li + li {
+  margin-top: 20px;
+}

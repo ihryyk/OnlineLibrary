@@ -1,0 +1,28 @@
+2022-06-01 16:40:10 INFO  Listener:30 - Session attribute added: HttpSessionBindingEvent : language : eng
+2022-06-01 16:40:11 INFO  BookDAOImpl:108 - The result of the 'getCount' function is obtained
+2022-06-01 16:40:11 INFO  BookServiceImpl:92 - The result of the 'getCountBooksByTitle' function is obtained
+2022-06-01 16:40:11 INFO  BookDAOImpl:195 - The result of the 'getAll' function is obtained
+2022-06-01 16:40:11 INFO  BookServiceImpl:134 - The result of the 'getAll' function is obtained
+2022-06-01 16:40:13 INFO  Listener:30 - Session attribute added: HttpSessionBindingEvent : javax.servlet.jsp.jstl.fmt.request.charset : utf-8
+2022-06-01 16:40:13 INFO  Listener:30 - Session attribute added: HttpSessionBindingEvent : language : eng
+2022-06-01 16:40:13 INFO  BookDAOImpl:108 - The result of the 'getCount' function is obtained
+2022-06-01 16:40:13 INFO  BookServiceImpl:92 - The result of the 'getCountBooksByTitle' function is obtained
+2022-06-01 16:40:13 INFO  BookDAOImpl:195 - The result of the 'getAll' function is obtained
+2022-06-01 16:40:13 INFO  BookServiceImpl:134 - The result of the 'getAll' function is obtained
+2022-06-01 16:40:13 INFO  Listener:30 - Session attribute added: HttpSessionBindingEvent : javax.servlet.jsp.jstl.fmt.request.charset : utf-8
+2022-06-01 16:40:14 INFO  Listener:30 - Session attribute added: HttpSessionBindingEvent : language : eng
+2022-06-01 16:40:14 INFO  BookDAOImpl:108 - The result of the 'getCount' function is obtained
+2022-06-01 16:40:14 INFO  BookServiceImpl:92 - The result of the 'getCountBooksByTitle' function is obtained
+2022-06-01 16:40:14 INFO  BookDAOImpl:195 - The result of the 'getAll' function is obtained
+2022-06-01 16:40:14 INFO  BookServiceImpl:134 - The result of the 'getAll' function is obtained
+2022-06-01 16:40:14 INFO  Listener:30 - Session attribute added: HttpSessionBindingEvent : javax.servlet.jsp.jstl.fmt.request.charset : utf-8
+2022-06-01 16:40:14 INFO  BookDAOImpl:108 - The result of the 'getCount' function is obtained
+2022-06-01 16:40:14 INFO  BookServiceImpl:92 - The result of the 'getCountBooksByTitle' function is obtained
+2022-06-01 16:40:14 INFO  BookDAOImpl:195 - The result of the 'getAll' function is obtained
+2022-06-01 16:40:14 INFO  BookServiceImpl:134 - The result of the 'getAll' function is obtained
+2022-06-01 16:40:14 INFO  Listener:45 - :HttpSessionBindingEvent:javax.servlet.jsp.jstl.fmt.request.charset:utf-8
+2022-06-01 16:40:14 INFO  BookDAOImpl:108 - The result of the 'getCount' function is obtained
+2022-06-01 16:40:14 INFO  BookServiceImpl:92 - The result of the 'getCountBooksByTitle' function is obtained
+2022-06-01 16:40:14 INFO  BookDAOImpl:195 - The result of the 'getAll' function is obtained
+2022-06-01 16:40:14 INFO  BookServiceImpl:134 - The result of the 'getAll' function is obtained
+2022-06-01 16:40:14 INFO  Listener:45 - :HttpSessionBindingEvent:javax.servlet.jsp.jstl.fmt.request.charset:utf-8
