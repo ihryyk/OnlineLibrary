@@ -1,7 +1,5 @@
 package app.model.service;
 
-import app.model.dao.BookDAO;
-import app.model.dao.DAOFactory;
 import app.model.dao.exeption.ServiceException;
 import app.model.entity.Book;
 

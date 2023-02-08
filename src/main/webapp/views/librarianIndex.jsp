@@ -1,7 +1,7 @@
 
 <%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
-<%@ taglib prefix = "dt" uri = "/WEB-INF/todayDate.tld"%>
+<%--<%@ taglib prefix = "dt" uri = "/WEB-INF/todayDate.tld"%>--%>
 <!DOCTYPE html>
 <html>
 
@@ -94,12 +94,12 @@
                                     <td></td>
                                     <td><label>
                                         Start order day:
-                                        <input type="date" min="<dt:todayDate/>" required name="startDate"/>
+                                        <input type="date" required name="startDate"/>
                                     </label></td>
 
                                     <td><label>
                                         End order day:
-                                        <input type="date" min="<dt:todayDate/>" required name="endDate"/>
+                                        <input type="date" required name="endDate"/>
                                     </label></td>
                                 </tr>
                                 <input type="submit" value="apply">

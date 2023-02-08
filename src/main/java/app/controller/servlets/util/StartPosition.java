@@ -1,7 +1,6 @@
 package app.controller.servlets.util;
 
-import javax.servlet.http.HttpServletRequest;
-
+import jakarta.servlet.http.HttpServletRequest;
 
 
 /**
@@ -10,6 +9,7 @@ import javax.servlet.http.HttpServletRequest;
 public class StartPosition {
     public static final int AMOUNT_BOOKS_ON_A_PAGE = 5;
     public final static String PAGE_NUMBER = "page";
+
     /**
      * @param req {@link HttpServletRequest}.
      * @return start position for pagination

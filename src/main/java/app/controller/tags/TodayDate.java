@@ -14,7 +14,7 @@ public class TodayDate extends TagSupport {
         try {
             out.print(Date.valueOf(LocalDate.now().toString()));
         } catch (IOException e) {
-          throw new JspException(e);
+            throw new JspException(e);
         }
         return SKIP_BODY;
     }

@@ -1,4 +1,4 @@
-package app.model.dao.impl;
+package impl;
 
 import app.model.dao.DAOFactory;
 import app.model.dao.OrderDAO;
@@ -12,7 +12,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
-import static app.model.dao.impl.TestData.*;
+import static impl.TestData.*;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
 class OrderDAOImplTest {
@@ -55,7 +55,7 @@ class OrderDAOImplTest {
     @Test
     void getById() throws DAOException {
         Order expected = order;
-        Order actual = orderDAO.getById("eng", 50 );
+        Order actual = orderDAO.getById("eng", 50);
         assertEquals(actual.toString(), expected.toString());
     }
 

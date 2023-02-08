@@ -1,4 +1,3 @@
-<%@ taglib prefix="dt" uri="/WEB-INF/todayDate.tld" %>
 <%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c" %>
 <%@ taglib prefix="fmt" uri="http://java.sun.com/jsp/jstl/fmt" %>
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
@@ -72,7 +71,7 @@
                     <td></td>
                     <td><label>
                         <fmt:message key="arriveDate"/>
-                        <input type="date" MIN="<dt:todayDate/>" required name="arrivalDate"/>
+                        <input type="date" required name="arrivalDate"/>
                     </label></td>
                 </tr>
                 <tr>

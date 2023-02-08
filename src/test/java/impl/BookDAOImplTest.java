@@ -1,4 +1,4 @@
-package app.model.dao.impl;
+package impl;
 
 import app.model.dao.BookDAO;
 import app.model.dao.DAOFactory;
@@ -13,10 +13,11 @@ import org.junit.jupiter.api.Test;
 import java.sql.SQLException;
 import java.util.ArrayList;
 import java.util.Arrays;
+import java.util.Collections;
 import java.util.List;
 
-import static app.model.dao.impl.TestData.*;
 import static app.model.dao.util.SqlConstant.BookRequestQuery.GROUP_BOOK_BY_YEAR;
+import static impl.TestData.*;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
 class BookDAOImplTest {
@@ -121,7 +122,7 @@ class BookDAOImplTest {
     @Test
     void update() throws DAOException {
         Book expected = new Book(1, 1, "1", 1,
-                new ArrayList<BookTranslation>(Arrays.asList(new BookTranslation("1", new Language(1, "eng"), "1"))));
+                new ArrayList<>(Collections.singletonList(new BookTranslation("1", new Language(1, "eng"), "1"))));
         bookDAO.update(expected);
         Book actual = bookDAO.getById(1, "eng");
         bookDAO.update(b1);

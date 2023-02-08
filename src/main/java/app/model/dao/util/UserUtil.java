@@ -1,8 +1,8 @@
 package app.model.dao.util;
 
-import app.model.enums.LockStatus;
 import app.model.entity.Role;
 import app.model.entity.User;
+import app.model.enums.LockStatus;
 
 import java.sql.ResultSet;
 import java.sql.SQLException;

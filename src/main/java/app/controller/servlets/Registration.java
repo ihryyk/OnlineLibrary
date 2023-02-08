@@ -2,17 +2,17 @@ package app.controller.servlets;
 
 import app.controller.servlets.util.Constant.PopUpsConstant;
 import app.controller.servlets.util.SaveUser;
-import app.model.dao.exeption.ServiceException;
 import app.controller.servlets.util.validate.Validator;
+import app.model.dao.exeption.ServiceException;
 import app.model.entity.User;
 import app.model.service.UserService;
 import app.model.service.UserServiceImpl;
+import jakarta.servlet.ServletException;
+import jakarta.servlet.annotation.WebServlet;
+import jakarta.servlet.http.HttpServlet;
+import jakarta.servlet.http.HttpServletRequest;
+import jakarta.servlet.http.HttpServletResponse;
 
-import javax.servlet.ServletException;
-import javax.servlet.annotation.WebServlet;
-import javax.servlet.http.HttpServlet;
-import javax.servlet.http.HttpServletRequest;
-import javax.servlet.http.HttpServletResponse;
 import java.io.IOException;
 
 import static app.controller.servlets.util.Constant.PageLocation.*;
@@ -44,14 +44,14 @@ public class Registration extends HttpServlet {
                     userService.add(user);
                     user = userService.getByEmail(user.getEmailAddress());
                     req.getSession().setAttribute(USER_PASSWORD, userPassword);
-                    SaveUser.saveUser(req,user);
+                    SaveUser.saveUser(req, user);
                     req.getSession().setAttribute(POP_UPS, PopUpsConstant.REGISTRATION);
                     resp.sendRedirect("/");
                 }
             } catch (ServiceException e) {
                 resp.sendRedirect(ERROR);
             }
-        }else {
+        } else {
             req.getSession().setAttribute(POP_UPS, PopUpsConstant.VALID);
             resp.sendRedirect(REGISTRATION);
         }

@@ -1,4 +1,4 @@
-package app.model.dao.impl;
+package impl;
 
 import org.apache.ibatis.jdbc.ScriptRunner;
 

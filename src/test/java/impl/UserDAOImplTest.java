@@ -1,4 +1,4 @@
-package app.model.dao.impl;
+package impl;
 
 import app.model.dao.DAOFactory;
 import app.model.dao.UserDAO;
@@ -13,7 +13,7 @@ import java.sql.SQLException;
 import java.util.Arrays;
 import java.util.List;
 
-import static app.model.dao.impl.TestData.*;
+import static impl.TestData.*;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
 class UserDAOImplTest {

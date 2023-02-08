@@ -2,19 +2,19 @@ package app.controller.servlets;
 
 import app.controller.servlets.util.Constant.PopUpsConstant;
 import app.controller.servlets.util.StartPosition;
-import app.model.dao.exeption.ServiceException;
 import app.controller.servlets.util.validate.Validator;
+import app.model.dao.exeption.ServiceException;
 import app.model.entity.Book;
 import app.model.entity.BookTranslation;
 import app.model.entity.Language;
 import app.model.entity.User;
 import app.model.service.*;
+import jakarta.servlet.ServletException;
+import jakarta.servlet.annotation.WebServlet;
+import jakarta.servlet.http.HttpServlet;
+import jakarta.servlet.http.HttpServletRequest;
+import jakarta.servlet.http.HttpServletResponse;
 
-import javax.servlet.ServletException;
-import javax.servlet.annotation.WebServlet;
-import javax.servlet.http.HttpServlet;
-import javax.servlet.http.HttpServletRequest;
-import javax.servlet.http.HttpServletResponse;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
@@ -191,10 +191,10 @@ public class AdminServlet extends HttpServlet {
     private void createBook(HttpServletRequest req, HttpServletResponse resp) throws IOException, ServiceException {
         BookService bookService = new BookServiceImpl();
         Book book = descriptionOfBook(req);
-        if (book!=null) {
+        if (book != null) {
             bookService.add(book);
             resp.sendRedirect(ADMIN);
-        }else {
+        } else {
             req.getSession().setAttribute(POP_UPS, PopUpsConstant.VALID);
             resp.sendRedirect(CREATE_BOOK_URL);
         }
@@ -212,11 +212,11 @@ public class AdminServlet extends HttpServlet {
     private void updateBook(HttpServletRequest req, HttpServletResponse resp) throws IOException, ServiceException {
         BookService bookService = new BookServiceImpl();
         Book book = descriptionOfBook(req);
-        if (book!=null) {
+        if (book != null) {
             book.setId(Long.parseLong(req.getParameter(BOOK_ID)));
             bookService.update(book);
             resp.sendRedirect(ADMIN);
-        }else {
+        } else {
             req.getSession().setAttribute(POP_UPS, PopUpsConstant.VALID);
             resp.sendRedirect(ADMIN);
         }
@@ -265,8 +265,8 @@ public class AdminServlet extends HttpServlet {
         bookTranslationList.add(engBookTranslation);
         bookTranslationList.add(ukrBookTranslation);
         book.setBookTranslations(bookTranslationList);
-        if (Validator.isValidEng(book.getPublishingHouse())&&Validator.isValidYear(String.valueOf(book.getYear()))
-                &&Validator.isValidEng(engBookTranslation.getAuthor())
+        if (Validator.isValidEng(book.getPublishingHouse()) && Validator.isValidYear(String.valueOf(book.getYear()))
+                && Validator.isValidEng(engBookTranslation.getAuthor())
                 && Validator.isValidEng(engBookTranslation.getTitle())
                 && Validator.isValidUkr(ukrBookTranslation.getAuthor())
                 && Validator.isValidUkr(ukrBookTranslation.getTitle())

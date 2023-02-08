@@ -1,4 +1,4 @@
-package app.model.dao.impl;
+package impl;
 
 import app.model.dao.DAOFactory;
 import app.model.dao.PassDAO;
@@ -16,7 +16,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
-import static app.model.dao.impl.TestData.*;
+import static impl.TestData.*;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
 class PassDAOImplTest {
@@ -60,7 +60,7 @@ class PassDAOImplTest {
 
     @Test
     void getAll() throws DAOException {
-        List<Pass> expected =Arrays.asList(pass);
+        List<Pass> expected = Arrays.asList(pass);
         List<Pass> actual = passDAO.getAll("eng");
         assertEquals(expected.size(), actual.size());
         assertEquals(expected.toString(), actual.toString());
@@ -73,10 +73,11 @@ class PassDAOImplTest {
         assertEquals(expected.size(), actual.size());
         assertEquals(expected.toString(), actual.toString());
     }
+
     @Test
     void add() throws DAOException {
-        Pass expected  = new Pass(35, Date.valueOf("2022-03-28"),
-                Date.valueOf("2022-03-31"), PassStatus.ACTIVE, 20,order) ;
+        Pass expected = new Pass(35, Date.valueOf("2022-03-28"),
+                Date.valueOf("2022-03-31"), PassStatus.ACTIVE, 20, order);
         passDAO.addPenalty(20, expected.getId());
         Pass actual = passDAO.getAllByUserId(14, "eng").get(0);
         assertEquals(expected.toString(), actual.toString());

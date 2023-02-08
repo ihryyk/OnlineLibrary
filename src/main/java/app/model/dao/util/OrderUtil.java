@@ -1,8 +1,8 @@
 package app.model.dao.util;
 
+import app.model.entity.Order;
 import app.model.enums.BookOption;
 import app.model.enums.OrderStatus;
-import app.model.entity.Order;
 
 import java.sql.ResultSet;
 import java.sql.SQLException;

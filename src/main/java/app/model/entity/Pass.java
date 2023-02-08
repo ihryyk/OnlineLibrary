@@ -1,11 +1,8 @@
 package app.model.entity;
 
-import app.model.enums.BookOption;
 import app.model.enums.PassStatus;
 
-import java.sql.Timestamp;
 import java.sql.Date;
-import java.util.List;
 import java.util.Objects;
 
 /**

@@ -2,18 +2,18 @@ package app.controller.servlets;
 
 import app.controller.servlets.util.Constant.PopUpsConstant;
 import app.controller.servlets.util.SaveUser;
-import app.model.dao.exeption.ServiceException;
 import app.controller.servlets.util.validate.Validator;
+import app.model.dao.exeption.ServiceException;
 import app.model.entity.User;
 import app.model.service.UserService;
 import app.model.service.UserServiceImpl;
+import jakarta.servlet.ServletException;
+import jakarta.servlet.annotation.WebServlet;
+import jakarta.servlet.http.HttpServlet;
+import jakarta.servlet.http.HttpServletRequest;
+import jakarta.servlet.http.HttpServletResponse;
+import jakarta.servlet.http.HttpSession;
 
-import javax.servlet.ServletException;
-import javax.servlet.annotation.WebServlet;
-import javax.servlet.http.HttpServlet;
-import javax.servlet.http.HttpServletRequest;
-import javax.servlet.http.HttpServletResponse;
-import javax.servlet.http.HttpSession;
 import java.io.IOException;
 
 import static app.controller.servlets.util.Constant.PageLocation.*;
@@ -52,7 +52,7 @@ public class LoginServlet extends HttpServlet {
                 User user = userService.getByEmailAndPassword(email, password);
                 if (user != null) {
                     req.getSession().setAttribute(USER_PASSWORD, password);
-                    SaveUser.saveUser(req,user);
+                    SaveUser.saveUser(req, user);
                     if (req.getSession().getAttribute(USER_ROLE).equals(USER_R)) {
                         resp.sendRedirect("/");
                     } else if (req.getSession().getAttribute(USER_ROLE).equals(LIBRARIAN_R)) {

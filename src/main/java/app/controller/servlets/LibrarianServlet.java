@@ -6,12 +6,12 @@ import app.model.entity.Order;
 import app.model.entity.Pass;
 import app.model.enums.PassStatus;
 import app.model.service.*;
+import jakarta.servlet.ServletException;
+import jakarta.servlet.annotation.WebServlet;
+import jakarta.servlet.http.HttpServlet;
+import jakarta.servlet.http.HttpServletRequest;
+import jakarta.servlet.http.HttpServletResponse;
 
-import javax.servlet.ServletException;
-import javax.servlet.annotation.WebServlet;
-import javax.servlet.http.HttpServlet;
-import javax.servlet.http.HttpServletRequest;
-import javax.servlet.http.HttpServletResponse;
 import java.io.IOException;
 import java.sql.Date;
 import java.util.List;
@@ -77,7 +77,7 @@ public class LibrarianServlet extends HttpServlet {
         PassService passService = new PassServiceImpl();
         BookService bookService = new BookServiceImpl();
         passService.addPenalty(0, Long.parseLong(req.getParameter(FINISH_PASS_ID)));
-        List<Book> passBooks =passService.getBooksById(Long.parseLong(req.getParameter(FINISH_PASS_ID)));
+        List<Book> passBooks = passService.getBooksById(Long.parseLong(req.getParameter(FINISH_PASS_ID)));
         for (int i = 0; i < passBooks.size(); i++) {
             bookService.changeNumber(passBooks.get(i).getId(), 1);
         }
@@ -113,7 +113,7 @@ public class LibrarianServlet extends HttpServlet {
     private void applyOrder(HttpServletRequest req, HttpServletResponse resp) throws ServiceException, IOException {
         long orderId = Long.parseLong(req.getParameter(APPLY_ORDER_ID));
         Date starDate = Date.valueOf(req.getParameter(FINISH_START_DATE));
-        Date endDate = Date.valueOf(req.getParameter( FINISH_END_DATE));
+        Date endDate = Date.valueOf(req.getParameter(FINISH_END_DATE));
         OrderService orderService = new OrderServiceImpl();
         PassServiceImpl passServiceImpl = new PassServiceImpl();
         Pass pass = new Pass();

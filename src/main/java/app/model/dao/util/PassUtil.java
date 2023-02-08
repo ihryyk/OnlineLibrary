@@ -1,7 +1,7 @@
 package app.model.dao.util;
 
-import app.model.enums.PassStatus;
 import app.model.entity.Pass;
+import app.model.enums.PassStatus;
 
 import java.sql.ResultSet;
 import java.sql.SQLException;

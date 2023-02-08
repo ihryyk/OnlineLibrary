@@ -1,4 +1,4 @@
-package app.model.dao.impl;
+package impl;
 
 import app.model.entity.*;
 import app.model.enums.BookOption;

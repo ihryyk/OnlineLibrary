@@ -1,11 +1,10 @@
 package app.controller;
 
 
+import jakarta.servlet.annotation.WebListener;
+import jakarta.servlet.http.HttpSessionAttributeListener;
+import jakarta.servlet.http.HttpSessionBindingEvent;
 import org.apache.log4j.Logger;
-
-import javax.servlet.annotation.WebListener;
-import javax.servlet.http.HttpSessionAttributeListener;
-import javax.servlet.http.HttpSessionBindingEvent;
 
 
 /**
@@ -35,7 +34,7 @@ public class Listener implements HttpSessionAttributeListener {
      * session.
      *
      * @param event the HttpSessionBindingEvent containing the session
-     * and the name and value of the attribute that was removed
+     *              and the name and value of the attribute that was removed
      */
     @Override
     public void attributeReplaced(HttpSessionBindingEvent event) {
@@ -51,7 +50,7 @@ public class Listener implements HttpSessionAttributeListener {
      * session.
      *
      * @param event the HttpSessionBindingEvent containing the session
-     * and the name and value of the attribute that was removed
+     *              and the name and value of the attribute that was removed
      */
     @Override
     public void attributeRemoved(final HttpSessionBindingEvent event) {

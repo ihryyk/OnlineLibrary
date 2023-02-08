@@ -1,0 +1,1109 @@
+2023-02-08 03:06:49 INFO  Listener:29 - Session attribute added: HttpSessionBindingEvent : language : eng
+2023-02-08 03:06:50 INFO  BookDAOImpl:108 - The result of the 'getCount' function is obtained
+2023-02-08 03:06:50 INFO  BookServiceImpl:92 - The result of the 'getCountBooksByTitle' function is obtained
+2023-02-08 03:06:50 INFO  BookDAOImpl:195 - The result of the 'getAll' function is obtained
+2023-02-08 03:06:50 INFO  BookServiceImpl:134 - The result of the 'getAll' function is obtained
+2023-02-08 03:06:52 INFO  Listener:29 - Session attribute added: HttpSessionBindingEvent : jakarta.servlet.jsp.jstl.fmt.request.charset : utf-8
+2023-02-08 03:06:52 INFO  Listener:29 - Session attribute added: HttpSessionBindingEvent : language : eng
+2023-02-08 03:06:52 INFO  BookDAOImpl:108 - The result of the 'getCount' function is obtained
+2023-02-08 03:06:52 INFO  BookServiceImpl:92 - The result of the 'getCountBooksByTitle' function is obtained
+2023-02-08 03:06:52 INFO  BookDAOImpl:195 - The result of the 'getAll' function is obtained
+2023-02-08 03:06:52 INFO  BookServiceImpl:134 - The result of the 'getAll' function is obtained
+2023-02-08 03:06:52 INFO  Listener:29 - Session attribute added: HttpSessionBindingEvent : jakarta.servlet.jsp.jstl.fmt.request.charset : utf-8
+2023-02-08 03:06:52 INFO  Listener:29 - Session attribute added: HttpSessionBindingEvent : language : eng
+2023-02-08 03:06:52 INFO  BookDAOImpl:108 - The result of the 'getCount' function is obtained
+2023-02-08 03:06:52 INFO  BookServiceImpl:92 - The result of the 'getCountBooksByTitle' function is obtained
+2023-02-08 03:06:52 INFO  BookDAOImpl:195 - The result of the 'getAll' function is obtained
+2023-02-08 03:06:52 INFO  BookServiceImpl:134 - The result of the 'getAll' function is obtained
+2023-02-08 03:06:52 INFO  Listener:29 - Session attribute added: HttpSessionBindingEvent : jakarta.servlet.jsp.jstl.fmt.request.charset : utf-8
+2023-02-08 03:06:53 INFO  BookDAOImpl:108 - The result of the 'getCount' function is obtained
+2023-02-08 03:06:53 INFO  BookServiceImpl:92 - The result of the 'getCountBooksByTitle' function is obtained
+2023-02-08 03:06:53 INFO  BookDAOImpl:195 - The result of the 'getAll' function is obtained
+2023-02-08 03:06:53 INFO  BookServiceImpl:134 - The result of the 'getAll' function is obtained
+2023-02-08 03:06:53 INFO  Listener:44 - :HttpSessionBindingEvent:jakarta.servlet.jsp.jstl.fmt.request.charset:utf-8
+2023-02-08 03:06:53 INFO  BookDAOImpl:108 - The result of the 'getCount' function is obtained
+2023-02-08 03:06:53 INFO  BookServiceImpl:92 - The result of the 'getCountBooksByTitle' function is obtained
+2023-02-08 03:06:53 INFO  BookDAOImpl:195 - The result of the 'getAll' function is obtained
+2023-02-08 03:06:53 INFO  BookServiceImpl:134 - The result of the 'getAll' function is obtained
+2023-02-08 03:06:53 INFO  Listener:44 - :HttpSessionBindingEvent:jakarta.servlet.jsp.jstl.fmt.request.charset:utf-8
+2023-02-08 03:06:55 INFO  Listener:44 - :HttpSessionBindingEvent:jakarta.servlet.jsp.jstl.fmt.request.charset:utf-8
+2023-02-08 03:06:55 INFO  BookDAOImpl:108 - The result of the 'getCount' function is obtained
+2023-02-08 03:06:55 INFO  BookServiceImpl:92 - The result of the 'getCountBooksByTitle' function is obtained
+2023-02-08 03:06:55 INFO  BookDAOImpl:195 - The result of the 'getAll' function is obtained
+2023-02-08 03:06:55 INFO  BookServiceImpl:134 - The result of the 'getAll' function is obtained
+2023-02-08 03:06:55 INFO  Listener:44 - :HttpSessionBindingEvent:jakarta.servlet.jsp.jstl.fmt.request.charset:utf-8
+2023-02-08 03:06:55 INFO  BookDAOImpl:108 - The result of the 'getCount' function is obtained
+2023-02-08 03:06:55 INFO  BookServiceImpl:92 - The result of the 'getCountBooksByTitle' function is obtained
+2023-02-08 03:06:55 INFO  BookDAOImpl:195 - The result of the 'getAll' function is obtained
+2023-02-08 03:06:55 INFO  BookServiceImpl:134 - The result of the 'getAll' function is obtained
+2023-02-08 03:06:55 INFO  Listener:44 - :HttpSessionBindingEvent:jakarta.servlet.jsp.jstl.fmt.request.charset:utf-8
+2023-02-08 03:06:56 INFO  Listener:29 - Session attribute added: HttpSessionBindingEvent : popUps : valid
+2023-02-08 03:06:56 INFO  Listener:44 - :HttpSessionBindingEvent:jakarta.servlet.jsp.jstl.fmt.request.charset:utf-8
+2023-02-08 03:06:56 INFO  Listener:60 - Session attribute removed: HttpSessionBindingEvent : popUps : valid
+2023-02-08 03:06:56 INFO  BookDAOImpl:108 - The result of the 'getCount' function is obtained
+2023-02-08 03:06:56 INFO  BookServiceImpl:92 - The result of the 'getCountBooksByTitle' function is obtained
+2023-02-08 03:06:56 INFO  BookDAOImpl:195 - The result of the 'getAll' function is obtained
+2023-02-08 03:06:56 INFO  BookServiceImpl:134 - The result of the 'getAll' function is obtained
+2023-02-08 03:06:56 INFO  Listener:44 - :HttpSessionBindingEvent:jakarta.servlet.jsp.jstl.fmt.request.charset:utf-8
+2023-02-08 03:06:57 INFO  BookDAOImpl:108 - The result of the 'getCount' function is obtained
+2023-02-08 03:06:57 INFO  BookServiceImpl:92 - The result of the 'getCountBooksByTitle' function is obtained
+2023-02-08 03:06:57 INFO  BookDAOImpl:195 - The result of the 'getAll' function is obtained
+2023-02-08 03:06:57 INFO  BookServiceImpl:134 - The result of the 'getAll' function is obtained
+2023-02-08 03:06:57 INFO  Listener:44 - :HttpSessionBindingEvent:jakarta.servlet.jsp.jstl.fmt.request.charset:utf-8
+2023-02-08 03:07:14 INFO  UserDAOImpl:96 - The result of the 'getByEmailAndPassword' function is obtained
+2023-02-08 03:07:14 INFO  UserServiceImpl:75 - The result of the 'getByEmailAndPassword' function is obtained
+2023-02-08 03:07:14 INFO  Listener:29 - Session attribute added: HttpSessionBindingEvent : password : GRENG2016
+2023-02-08 03:07:14 INFO  Listener:29 - Session attribute added: HttpSessionBindingEvent : userName : Ihor Berezovskyi
+2023-02-08 03:07:14 INFO  Listener:29 - Session attribute added: HttpSessionBindingEvent : emailAddress : ihor.bereaaazivskiy@gmail.com
+2023-02-08 03:07:14 INFO  Listener:29 - Session attribute added: HttpSessionBindingEvent : role : user
+2023-02-08 03:07:14 INFO  Listener:29 - Session attribute added: HttpSessionBindingEvent : userId : 56
+2023-02-08 03:07:14 INFO  Listener:29 - Session attribute added: HttpSessionBindingEvent : lockStatus : UNLOCKED
+2023-02-08 03:07:14 INFO  BookDAOImpl:108 - The result of the 'getCount' function is obtained
+2023-02-08 03:07:14 INFO  BookServiceImpl:92 - The result of the 'getCountBooksByTitle' function is obtained
+2023-02-08 03:07:14 INFO  BookDAOImpl:195 - The result of the 'getAll' function is obtained
+2023-02-08 03:07:14 INFO  BookServiceImpl:134 - The result of the 'getAll' function is obtained
+2023-02-08 03:07:14 INFO  Listener:44 - :HttpSessionBindingEvent:jakarta.servlet.jsp.jstl.fmt.request.charset:utf-8
+2023-02-08 03:07:14 INFO  BookDAOImpl:108 - The result of the 'getCount' function is obtained
+2023-02-08 03:07:14 INFO  BookServiceImpl:92 - The result of the 'getCountBooksByTitle' function is obtained
+2023-02-08 03:07:14 INFO  BookDAOImpl:195 - The result of the 'getAll' function is obtained
+2023-02-08 03:07:14 INFO  BookServiceImpl:134 - The result of the 'getAll' function is obtained
+2023-02-08 03:07:14 INFO  Listener:44 - :HttpSessionBindingEvent:jakarta.servlet.jsp.jstl.fmt.request.charset:utf-8
+2023-02-08 03:07:15 INFO  BookDAOImpl:108 - The result of the 'getCount' function is obtained
+2023-02-08 03:07:15 INFO  BookServiceImpl:92 - The result of the 'getCountBooksByTitle' function is obtained
+2023-02-08 03:07:15 INFO  BookDAOImpl:195 - The result of the 'getAll' function is obtained
+2023-02-08 03:07:15 INFO  BookServiceImpl:134 - The result of the 'getAll' function is obtained
+2023-02-08 03:07:15 INFO  Listener:44 - :HttpSessionBindingEvent:jakarta.servlet.jsp.jstl.fmt.request.charset:utf-8
+2023-02-08 03:07:19 INFO  BookDAOImpl:49 - The result of the 'getById' function is obtained
+2023-02-08 03:07:19 INFO  BookServiceImpl:30 - The result of the 'getById' function is obtained
+2023-02-08 03:07:19 INFO  BookDAOImpl:49 - The result of the 'getById' function is obtained
+2023-02-08 03:07:19 INFO  BookServiceImpl:30 - The result of the 'getById' function is obtained
+2023-02-08 03:07:19 INFO  Listener:29 - Session attribute added: HttpSessionBindingEvent : books : [Book{year=2019, publishingHouse='Vivat', bookTranslations=[BookTranslation{, title='Enejida', language='Language{name='eng'}', author='Ivan Kotlyarevsky'}], number=19}, Book{year=2019, publishingHouse='Terra Incognita', bookTranslations=[BookTranslation{, title='Kaidasheva family', language='Language{name='eng'}', author='Ivan Nechuy-Levytsky'}], number=19}]
+2023-02-08 03:07:19 INFO  BookDAOImpl:108 - The result of the 'getCount' function is obtained
+2023-02-08 03:07:19 INFO  BookServiceImpl:92 - The result of the 'getCountBooksByTitle' function is obtained
+2023-02-08 03:07:19 INFO  BookDAOImpl:195 - The result of the 'getAll' function is obtained
+2023-02-08 03:07:19 INFO  BookServiceImpl:134 - The result of the 'getAll' function is obtained
+2023-02-08 03:07:19 INFO  Listener:44 - :HttpSessionBindingEvent:jakarta.servlet.jsp.jstl.fmt.request.charset:utf-8
+2023-02-08 03:08:58 INFO  BookDAOImpl:108 - The result of the 'getCount' function is obtained
+2023-02-08 03:08:58 INFO  BookServiceImpl:92 - The result of the 'getCountBooksByTitle' function is obtained
+2023-02-08 03:08:58 INFO  BookDAOImpl:195 - The result of the 'getAll' function is obtained
+2023-02-08 03:08:58 INFO  BookServiceImpl:134 - The result of the 'getAll' function is obtained
+2023-02-08 03:08:58 INFO  Listener:44 - :HttpSessionBindingEvent:jakarta.servlet.jsp.jstl.fmt.request.charset:utf-8
+2023-02-08 03:08:58 INFO  BookDAOImpl:108 - The result of the 'getCount' function is obtained
+2023-02-08 03:08:58 INFO  BookServiceImpl:92 - The result of the 'getCountBooksByTitle' function is obtained
+2023-02-08 03:08:58 INFO  BookDAOImpl:195 - The result of the 'getAll' function is obtained
+2023-02-08 03:08:58 INFO  BookServiceImpl:134 - The result of the 'getAll' function is obtained
+2023-02-08 03:08:58 INFO  Listener:44 - :HttpSessionBindingEvent:jakarta.servlet.jsp.jstl.fmt.request.charset:utf-8
+2023-02-08 03:08:58 INFO  BookDAOImpl:108 - The result of the 'getCount' function is obtained
+2023-02-08 03:08:58 INFO  BookServiceImpl:92 - The result of the 'getCountBooksByTitle' function is obtained
+2023-02-08 03:08:59 INFO  BookDAOImpl:195 - The result of the 'getAll' function is obtained
+2023-02-08 03:08:59 INFO  BookServiceImpl:134 - The result of the 'getAll' function is obtained
+2023-02-08 03:08:59 INFO  Listener:44 - :HttpSessionBindingEvent:jakarta.servlet.jsp.jstl.fmt.request.charset:utf-8
+2023-02-08 03:09:00 INFO  Listener:44 - :HttpSessionBindingEvent:jakarta.servlet.jsp.jstl.fmt.request.charset:utf-8
+2023-02-08 03:09:01 INFO  BookDAOImpl:108 - The result of the 'getCount' function is obtained
+2023-02-08 03:09:01 INFO  BookServiceImpl:92 - The result of the 'getCountBooksByTitle' function is obtained
+2023-02-08 03:09:01 INFO  BookDAOImpl:195 - The result of the 'getAll' function is obtained
+2023-02-08 03:09:01 INFO  BookServiceImpl:134 - The result of the 'getAll' function is obtained
+2023-02-08 03:09:01 INFO  Listener:44 - :HttpSessionBindingEvent:jakarta.servlet.jsp.jstl.fmt.request.charset:UTF-8
+2023-02-08 03:09:06 INFO  BookDAOImpl:108 - The result of the 'getCount' function is obtained
+2023-02-08 03:09:06 INFO  BookServiceImpl:92 - The result of the 'getCountBooksByTitle' function is obtained
+2023-02-08 03:09:06 INFO  BookDAOImpl:195 - The result of the 'getAll' function is obtained
+2023-02-08 03:09:06 INFO  BookServiceImpl:134 - The result of the 'getAll' function is obtained
+2023-02-08 03:09:06 INFO  Listener:44 - :HttpSessionBindingEvent:jakarta.servlet.jsp.jstl.fmt.request.charset:utf-8
+2023-02-08 03:09:06 INFO  BookDAOImpl:108 - The result of the 'getCount' function is obtained
+2023-02-08 03:09:06 INFO  BookServiceImpl:92 - The result of the 'getCountBooksByTitle' function is obtained
+2023-02-08 03:09:06 INFO  BookDAOImpl:195 - The result of the 'getAll' function is obtained
+2023-02-08 03:09:06 INFO  BookServiceImpl:134 - The result of the 'getAll' function is obtained
+2023-02-08 03:09:06 INFO  Listener:44 - :HttpSessionBindingEvent:jakarta.servlet.jsp.jstl.fmt.request.charset:utf-8
+2023-02-08 03:09:06 INFO  BookDAOImpl:108 - The result of the 'getCount' function is obtained
+2023-02-08 03:09:06 INFO  BookServiceImpl:92 - The result of the 'getCountBooksByTitle' function is obtained
+2023-02-08 03:09:06 INFO  BookDAOImpl:195 - The result of the 'getAll' function is obtained
+2023-02-08 03:09:06 INFO  BookServiceImpl:134 - The result of the 'getAll' function is obtained
+2023-02-08 03:09:06 INFO  Listener:44 - :HttpSessionBindingEvent:jakarta.servlet.jsp.jstl.fmt.request.charset:utf-8
+2023-02-08 03:09:07 INFO  PassDAOImpl:134 - The result of the 'getAll' function is obtained
+2023-02-08 03:09:07 INFO  PassServiceImpl:143 - The 'add' function has been completed
+2023-02-08 03:09:07 INFO  PassDAOImpl:166 - The result of the 'getAllByUserId' function is obtained
+2023-02-08 03:09:07 INFO  PassServiceImpl:115 - The result of the 'getAllByUserId' function is obtained
+2023-02-08 03:09:07 INFO  Listener:44 - :HttpSessionBindingEvent:jakarta.servlet.jsp.jstl.fmt.request.charset:utf-8
+2023-02-08 03:09:08 INFO  BookDAOImpl:108 - The result of the 'getCount' function is obtained
+2023-02-08 03:09:08 INFO  BookServiceImpl:92 - The result of the 'getCountBooksByTitle' function is obtained
+2023-02-08 03:09:08 INFO  BookDAOImpl:195 - The result of the 'getAll' function is obtained
+2023-02-08 03:09:08 INFO  BookServiceImpl:134 - The result of the 'getAll' function is obtained
+2023-02-08 03:09:08 INFO  Listener:44 - :HttpSessionBindingEvent:jakarta.servlet.jsp.jstl.fmt.request.charset:UTF-8
+2023-02-08 03:09:09 INFO  BookDAOImpl:108 - The result of the 'getCount' function is obtained
+2023-02-08 03:09:09 INFO  BookServiceImpl:92 - The result of the 'getCountBooksByTitle' function is obtained
+2023-02-08 03:09:09 INFO  BookDAOImpl:195 - The result of the 'getAll' function is obtained
+2023-02-08 03:09:09 INFO  BookServiceImpl:134 - The result of the 'getAll' function is obtained
+2023-02-08 03:09:09 INFO  Listener:44 - :HttpSessionBindingEvent:jakarta.servlet.jsp.jstl.fmt.request.charset:utf-8
+2023-02-08 03:09:09 INFO  BookDAOImpl:108 - The result of the 'getCount' function is obtained
+2023-02-08 03:09:09 INFO  BookServiceImpl:92 - The result of the 'getCountBooksByTitle' function is obtained
+2023-02-08 03:09:09 INFO  BookDAOImpl:195 - The result of the 'getAll' function is obtained
+2023-02-08 03:09:09 INFO  BookServiceImpl:134 - The result of the 'getAll' function is obtained
+2023-02-08 03:09:09 INFO  Listener:44 - :HttpSessionBindingEvent:jakarta.servlet.jsp.jstl.fmt.request.charset:utf-8
+2023-02-08 03:09:09 INFO  BookDAOImpl:108 - The result of the 'getCount' function is obtained
+2023-02-08 03:09:09 INFO  BookServiceImpl:92 - The result of the 'getCountBooksByTitle' function is obtained
+2023-02-08 03:09:09 INFO  BookDAOImpl:195 - The result of the 'getAll' function is obtained
+2023-02-08 03:09:09 INFO  BookServiceImpl:134 - The result of the 'getAll' function is obtained
+2023-02-08 03:09:09 INFO  Listener:44 - :HttpSessionBindingEvent:jakarta.servlet.jsp.jstl.fmt.request.charset:utf-8
+2023-02-08 03:09:09 INFO  OrderDAOImpl:97 - The result of the 'getAllByUserId' function is obtained
+2023-02-08 03:09:09 INFO  OrderServiceImpl:46 - The result of the 'getAllByUserId' function is obtained
+2023-02-08 03:09:10 INFO  Listener:44 - :HttpSessionBindingEvent:jakarta.servlet.jsp.jstl.fmt.request.charset:utf-8
+2023-02-08 03:09:10 INFO  BookDAOImpl:108 - The result of the 'getCount' function is obtained
+2023-02-08 03:09:10 INFO  BookServiceImpl:92 - The result of the 'getCountBooksByTitle' function is obtained
+2023-02-08 03:09:10 INFO  BookDAOImpl:195 - The result of the 'getAll' function is obtained
+2023-02-08 03:09:10 INFO  BookServiceImpl:134 - The result of the 'getAll' function is obtained
+2023-02-08 03:09:10 INFO  Listener:44 - :HttpSessionBindingEvent:jakarta.servlet.jsp.jstl.fmt.request.charset:UTF-8
+2023-02-08 03:09:12 INFO  BookDAOImpl:108 - The result of the 'getCount' function is obtained
+2023-02-08 03:09:12 INFO  BookServiceImpl:92 - The result of the 'getCountBooksByTitle' function is obtained
+2023-02-08 03:09:12 INFO  BookDAOImpl:195 - The result of the 'getAll' function is obtained
+2023-02-08 03:09:12 INFO  BookServiceImpl:134 - The result of the 'getAll' function is obtained
+2023-02-08 03:09:12 INFO  Listener:44 - :HttpSessionBindingEvent:jakarta.servlet.jsp.jstl.fmt.request.charset:utf-8
+2023-02-08 03:09:12 INFO  BookDAOImpl:108 - The result of the 'getCount' function is obtained
+2023-02-08 03:09:12 INFO  BookServiceImpl:92 - The result of the 'getCountBooksByTitle' function is obtained
+2023-02-08 03:09:12 INFO  BookDAOImpl:195 - The result of the 'getAll' function is obtained
+2023-02-08 03:09:12 INFO  BookServiceImpl:134 - The result of the 'getAll' function is obtained
+2023-02-08 03:09:12 INFO  Listener:44 - :HttpSessionBindingEvent:jakarta.servlet.jsp.jstl.fmt.request.charset:utf-8
+2023-02-08 03:09:12 INFO  BookDAOImpl:108 - The result of the 'getCount' function is obtained
+2023-02-08 03:09:12 INFO  BookServiceImpl:92 - The result of the 'getCountBooksByTitle' function is obtained
+2023-02-08 03:09:12 INFO  BookDAOImpl:195 - The result of the 'getAll' function is obtained
+2023-02-08 03:09:12 INFO  BookServiceImpl:134 - The result of the 'getAll' function is obtained
+2023-02-08 03:09:12 INFO  Listener:44 - :HttpSessionBindingEvent:jakarta.servlet.jsp.jstl.fmt.request.charset:utf-8
+2023-02-08 03:09:15 INFO  Listener:60 - Session attribute removed: HttpSessionBindingEvent : password : GRENG2016
+2023-02-08 03:09:15 INFO  Listener:60 - Session attribute removed: HttpSessionBindingEvent : emailAddress : ihor.bereaaazivskiy@gmail.com
+2023-02-08 03:09:15 INFO  Listener:60 - Session attribute removed: HttpSessionBindingEvent : role : user
+2023-02-08 03:09:15 INFO  Listener:60 - Session attribute removed: HttpSessionBindingEvent : books : [Book{year=2019, publishingHouse='Vivat', bookTranslations=[BookTranslation{, title='Enejida', language='Language{name='eng'}', author='Ivan Kotlyarevsky'}], number=19}, Book{year=2019, publishingHouse='Terra Incognita', bookTranslations=[BookTranslation{, title='Kaidasheva family', language='Language{name='eng'}', author='Ivan Nechuy-Levytsky'}], number=19}]
+2023-02-08 03:09:15 INFO  Listener:60 - Session attribute removed: HttpSessionBindingEvent : lockStatus : UNLOCKED
+2023-02-08 03:09:15 INFO  Listener:60 - Session attribute removed: HttpSessionBindingEvent : language : eng
+2023-02-08 03:09:15 INFO  Listener:60 - Session attribute removed: HttpSessionBindingEvent : userName : Ihor Berezovskyi
+2023-02-08 03:09:15 INFO  Listener:60 - Session attribute removed: HttpSessionBindingEvent : jakarta.servlet.jsp.jstl.fmt.request.charset : utf-8
+2023-02-08 03:09:15 INFO  Listener:60 - Session attribute removed: HttpSessionBindingEvent : userId : 56
+2023-02-08 03:09:15 INFO  Listener:29 - Session attribute added: HttpSessionBindingEvent : language : eng
+2023-02-08 03:09:15 INFO  BookDAOImpl:108 - The result of the 'getCount' function is obtained
+2023-02-08 03:09:15 INFO  BookServiceImpl:92 - The result of the 'getCountBooksByTitle' function is obtained
+2023-02-08 03:09:15 INFO  BookDAOImpl:195 - The result of the 'getAll' function is obtained
+2023-02-08 03:09:15 INFO  BookServiceImpl:134 - The result of the 'getAll' function is obtained
+2023-02-08 03:09:15 INFO  Listener:29 - Session attribute added: HttpSessionBindingEvent : jakarta.servlet.jsp.jstl.fmt.request.charset : utf-8
+2023-02-08 03:09:15 INFO  BookDAOImpl:108 - The result of the 'getCount' function is obtained
+2023-02-08 03:09:15 INFO  BookServiceImpl:92 - The result of the 'getCountBooksByTitle' function is obtained
+2023-02-08 03:09:15 INFO  BookDAOImpl:195 - The result of the 'getAll' function is obtained
+2023-02-08 03:09:15 INFO  BookServiceImpl:134 - The result of the 'getAll' function is obtained
+2023-02-08 03:09:15 INFO  Listener:44 - :HttpSessionBindingEvent:jakarta.servlet.jsp.jstl.fmt.request.charset:utf-8
+2023-02-08 03:09:15 INFO  BookDAOImpl:108 - The result of the 'getCount' function is obtained
+2023-02-08 03:09:15 INFO  BookServiceImpl:92 - The result of the 'getCountBooksByTitle' function is obtained
+2023-02-08 03:09:15 INFO  BookDAOImpl:195 - The result of the 'getAll' function is obtained
+2023-02-08 03:09:15 INFO  BookServiceImpl:134 - The result of the 'getAll' function is obtained
+2023-02-08 03:09:15 INFO  Listener:44 - :HttpSessionBindingEvent:jakarta.servlet.jsp.jstl.fmt.request.charset:utf-8
+2023-02-08 03:09:16 INFO  Listener:44 - :HttpSessionBindingEvent:jakarta.servlet.jsp.jstl.fmt.request.charset:utf-8
+2023-02-08 03:09:16 INFO  BookDAOImpl:108 - The result of the 'getCount' function is obtained
+2023-02-08 03:09:16 INFO  BookServiceImpl:92 - The result of the 'getCountBooksByTitle' function is obtained
+2023-02-08 03:09:16 INFO  BookDAOImpl:195 - The result of the 'getAll' function is obtained
+2023-02-08 03:09:16 INFO  BookServiceImpl:134 - The result of the 'getAll' function is obtained
+2023-02-08 03:09:16 INFO  Listener:44 - :HttpSessionBindingEvent:jakarta.servlet.jsp.jstl.fmt.request.charset:utf-8
+2023-02-08 03:09:17 INFO  BookDAOImpl:108 - The result of the 'getCount' function is obtained
+2023-02-08 03:09:17 INFO  BookServiceImpl:92 - The result of the 'getCountBooksByTitle' function is obtained
+2023-02-08 03:09:17 INFO  BookDAOImpl:195 - The result of the 'getAll' function is obtained
+2023-02-08 03:09:17 INFO  BookServiceImpl:134 - The result of the 'getAll' function is obtained
+2023-02-08 03:09:17 INFO  Listener:44 - :HttpSessionBindingEvent:jakarta.servlet.jsp.jstl.fmt.request.charset:utf-8
+2023-02-08 03:09:28 INFO  UserDAOImpl:99 - The result of the 'getByEmailAndPassword' function is not obtained
+2023-02-08 03:09:28 INFO  UserServiceImpl:75 - The result of the 'getByEmailAndPassword' function is obtained
+2023-02-08 03:09:28 INFO  Listener:29 - Session attribute added: HttpSessionBindingEvent : popUps : registration
+2023-02-08 03:09:28 INFO  Listener:44 - :HttpSessionBindingEvent:jakarta.servlet.jsp.jstl.fmt.request.charset:utf-8
+2023-02-08 03:09:28 INFO  Listener:60 - Session attribute removed: HttpSessionBindingEvent : popUps : registration
+2023-02-08 03:09:28 INFO  BookDAOImpl:108 - The result of the 'getCount' function is obtained
+2023-02-08 03:09:28 INFO  BookServiceImpl:92 - The result of the 'getCountBooksByTitle' function is obtained
+2023-02-08 03:09:28 INFO  BookDAOImpl:195 - The result of the 'getAll' function is obtained
+2023-02-08 03:09:28 INFO  BookServiceImpl:134 - The result of the 'getAll' function is obtained
+2023-02-08 03:09:28 INFO  Listener:44 - :HttpSessionBindingEvent:jakarta.servlet.jsp.jstl.fmt.request.charset:utf-8
+2023-02-08 03:09:28 INFO  BookDAOImpl:108 - The result of the 'getCount' function is obtained
+2023-02-08 03:09:28 INFO  BookServiceImpl:92 - The result of the 'getCountBooksByTitle' function is obtained
+2023-02-08 03:09:28 INFO  BookDAOImpl:195 - The result of the 'getAll' function is obtained
+2023-02-08 03:09:28 INFO  BookServiceImpl:134 - The result of the 'getAll' function is obtained
+2023-02-08 03:09:28 INFO  Listener:44 - :HttpSessionBindingEvent:jakarta.servlet.jsp.jstl.fmt.request.charset:utf-8
+2023-02-08 03:09:44 INFO  UserDAOImpl:96 - The result of the 'getByEmailAndPassword' function is obtained
+2023-02-08 03:09:44 INFO  UserServiceImpl:75 - The result of the 'getByEmailAndPassword' function is obtained
+2023-02-08 03:09:44 INFO  Listener:29 - Session attribute added: HttpSessionBindingEvent : password : GRENG2016
+2023-02-08 03:09:44 INFO  Listener:29 - Session attribute added: HttpSessionBindingEvent : userName : Ihor Berezovskyi
+2023-02-08 03:09:44 INFO  Listener:29 - Session attribute added: HttpSessionBindingEvent : emailAddress : ihor.bereaaazivskiy@gmail.com
+2023-02-08 03:09:44 INFO  Listener:29 - Session attribute added: HttpSessionBindingEvent : role : user
+2023-02-08 03:09:44 INFO  Listener:29 - Session attribute added: HttpSessionBindingEvent : userId : 56
+2023-02-08 03:09:44 INFO  Listener:29 - Session attribute added: HttpSessionBindingEvent : lockStatus : UNLOCKED
+2023-02-08 03:09:44 INFO  BookDAOImpl:108 - The result of the 'getCount' function is obtained
+2023-02-08 03:09:44 INFO  BookServiceImpl:92 - The result of the 'getCountBooksByTitle' function is obtained
+2023-02-08 03:09:44 INFO  BookDAOImpl:195 - The result of the 'getAll' function is obtained
+2023-02-08 03:09:44 INFO  BookServiceImpl:134 - The result of the 'getAll' function is obtained
+2023-02-08 03:09:44 INFO  Listener:44 - :HttpSessionBindingEvent:jakarta.servlet.jsp.jstl.fmt.request.charset:utf-8
+2023-02-08 03:09:45 INFO  BookDAOImpl:108 - The result of the 'getCount' function is obtained
+2023-02-08 03:09:45 INFO  BookServiceImpl:92 - The result of the 'getCountBooksByTitle' function is obtained
+2023-02-08 03:09:45 INFO  BookDAOImpl:195 - The result of the 'getAll' function is obtained
+2023-02-08 03:09:45 INFO  BookServiceImpl:134 - The result of the 'getAll' function is obtained
+2023-02-08 03:09:45 INFO  Listener:44 - :HttpSessionBindingEvent:jakarta.servlet.jsp.jstl.fmt.request.charset:utf-8
+2023-02-08 03:09:45 INFO  BookDAOImpl:108 - The result of the 'getCount' function is obtained
+2023-02-08 03:09:45 INFO  BookServiceImpl:92 - The result of the 'getCountBooksByTitle' function is obtained
+2023-02-08 03:09:45 INFO  BookDAOImpl:195 - The result of the 'getAll' function is obtained
+2023-02-08 03:09:45 INFO  BookServiceImpl:134 - The result of the 'getAll' function is obtained
+2023-02-08 03:09:45 INFO  Listener:44 - :HttpSessionBindingEvent:jakarta.servlet.jsp.jstl.fmt.request.charset:utf-8
+2023-02-08 03:10:17 INFO  Listener:60 - Session attribute removed: HttpSessionBindingEvent : language : eng
+2023-02-08 03:10:17 INFO  Listener:60 - Session attribute removed: HttpSessionBindingEvent : jakarta.servlet.jsp.jstl.fmt.request.charset : utf-8
+2023-02-08 03:10:17 INFO  Listener:60 - Session attribute removed: HttpSessionBindingEvent : password : GRENG2016
+2023-02-08 03:10:17 INFO  Listener:60 - Session attribute removed: HttpSessionBindingEvent : emailAddress : ihor.bereaaazivskiy@gmail.com
+2023-02-08 03:10:17 INFO  Listener:60 - Session attribute removed: HttpSessionBindingEvent : role : user
+2023-02-08 03:10:17 INFO  Listener:60 - Session attribute removed: HttpSessionBindingEvent : lockStatus : UNLOCKED
+2023-02-08 03:10:17 INFO  Listener:60 - Session attribute removed: HttpSessionBindingEvent : language : eng
+2023-02-08 03:10:17 INFO  Listener:60 - Session attribute removed: HttpSessionBindingEvent : userName : Ihor Berezovskyi
+2023-02-08 03:10:17 INFO  Listener:60 - Session attribute removed: HttpSessionBindingEvent : jakarta.servlet.jsp.jstl.fmt.request.charset : utf-8
+2023-02-08 03:10:17 INFO  Listener:60 - Session attribute removed: HttpSessionBindingEvent : userId : 56
+2023-02-08 03:10:17 INFO  Listener:60 - Session attribute removed: HttpSessionBindingEvent : language : eng
+2023-02-08 03:10:17 INFO  Listener:60 - Session attribute removed: HttpSessionBindingEvent : jakarta.servlet.jsp.jstl.fmt.request.charset : utf-8
+2023-02-08 03:10:29 INFO  Listener:29 - Session attribute added: HttpSessionBindingEvent : language : eng
+2023-02-08 03:10:30 INFO  BookDAOImpl:108 - The result of the 'getCount' function is obtained
+2023-02-08 03:10:30 INFO  BookServiceImpl:92 - The result of the 'getCountBooksByTitle' function is obtained
+2023-02-08 03:10:30 INFO  BookDAOImpl:195 - The result of the 'getAll' function is obtained
+2023-02-08 03:10:30 INFO  BookServiceImpl:134 - The result of the 'getAll' function is obtained
+2023-02-08 03:10:32 INFO  Listener:29 - Session attribute added: HttpSessionBindingEvent : jakarta.servlet.jsp.jstl.fmt.request.charset : utf-8
+2023-02-08 03:10:32 INFO  Listener:29 - Session attribute added: HttpSessionBindingEvent : language : eng
+2023-02-08 03:10:32 INFO  BookDAOImpl:108 - The result of the 'getCount' function is obtained
+2023-02-08 03:10:32 INFO  BookServiceImpl:92 - The result of the 'getCountBooksByTitle' function is obtained
+2023-02-08 03:10:32 INFO  BookDAOImpl:195 - The result of the 'getAll' function is obtained
+2023-02-08 03:10:32 INFO  BookServiceImpl:134 - The result of the 'getAll' function is obtained
+2023-02-08 03:10:32 INFO  Listener:29 - Session attribute added: HttpSessionBindingEvent : jakarta.servlet.jsp.jstl.fmt.request.charset : utf-8
+2023-02-08 03:10:32 INFO  Listener:29 - Session attribute added: HttpSessionBindingEvent : language : eng
+2023-02-08 03:10:32 INFO  BookDAOImpl:108 - The result of the 'getCount' function is obtained
+2023-02-08 03:10:32 INFO  BookServiceImpl:92 - The result of the 'getCountBooksByTitle' function is obtained
+2023-02-08 03:10:32 INFO  BookDAOImpl:195 - The result of the 'getAll' function is obtained
+2023-02-08 03:10:32 INFO  BookServiceImpl:134 - The result of the 'getAll' function is obtained
+2023-02-08 03:10:32 INFO  Listener:29 - Session attribute added: HttpSessionBindingEvent : jakarta.servlet.jsp.jstl.fmt.request.charset : utf-8
+2023-02-08 03:10:33 INFO  BookDAOImpl:108 - The result of the 'getCount' function is obtained
+2023-02-08 03:10:33 INFO  BookServiceImpl:92 - The result of the 'getCountBooksByTitle' function is obtained
+2023-02-08 03:10:33 INFO  BookDAOImpl:195 - The result of the 'getAll' function is obtained
+2023-02-08 03:10:33 INFO  BookServiceImpl:134 - The result of the 'getAll' function is obtained
+2023-02-08 03:10:33 INFO  Listener:44 - :HttpSessionBindingEvent:jakarta.servlet.jsp.jstl.fmt.request.charset:utf-8
+2023-02-08 03:10:33 INFO  BookDAOImpl:108 - The result of the 'getCount' function is obtained
+2023-02-08 03:10:33 INFO  BookServiceImpl:92 - The result of the 'getCountBooksByTitle' function is obtained
+2023-02-08 03:10:33 INFO  BookDAOImpl:195 - The result of the 'getAll' function is obtained
+2023-02-08 03:10:33 INFO  BookServiceImpl:134 - The result of the 'getAll' function is obtained
+2023-02-08 03:10:33 INFO  Listener:44 - :HttpSessionBindingEvent:jakarta.servlet.jsp.jstl.fmt.request.charset:utf-8
+2023-02-08 03:10:34 INFO  Listener:44 - :HttpSessionBindingEvent:jakarta.servlet.jsp.jstl.fmt.request.charset:utf-8
+2023-02-08 03:10:35 INFO  BookDAOImpl:108 - The result of the 'getCount' function is obtained
+2023-02-08 03:10:35 INFO  BookServiceImpl:92 - The result of the 'getCountBooksByTitle' function is obtained
+2023-02-08 03:10:35 INFO  BookDAOImpl:195 - The result of the 'getAll' function is obtained
+2023-02-08 03:10:35 INFO  BookServiceImpl:134 - The result of the 'getAll' function is obtained
+2023-02-08 03:10:35 INFO  Listener:44 - :HttpSessionBindingEvent:jakarta.servlet.jsp.jstl.fmt.request.charset:utf-8
+2023-02-08 03:10:35 INFO  BookDAOImpl:108 - The result of the 'getCount' function is obtained
+2023-02-08 03:10:35 INFO  BookServiceImpl:92 - The result of the 'getCountBooksByTitle' function is obtained
+2023-02-08 03:10:35 INFO  BookDAOImpl:195 - The result of the 'getAll' function is obtained
+2023-02-08 03:10:35 INFO  BookServiceImpl:134 - The result of the 'getAll' function is obtained
+2023-02-08 03:10:35 INFO  Listener:44 - :HttpSessionBindingEvent:jakarta.servlet.jsp.jstl.fmt.request.charset:utf-8
+2023-02-08 03:10:49 INFO  UserDAOImpl:96 - The result of the 'getByEmailAndPassword' function is obtained
+2023-02-08 03:10:49 INFO  UserServiceImpl:75 - The result of the 'getByEmailAndPassword' function is obtained
+2023-02-08 03:10:49 INFO  Listener:29 - Session attribute added: HttpSessionBindingEvent : password : GRENG2016
+2023-02-08 03:10:49 INFO  Listener:29 - Session attribute added: HttpSessionBindingEvent : userName : Ihor Berezovskyi
+2023-02-08 03:10:49 INFO  Listener:29 - Session attribute added: HttpSessionBindingEvent : emailAddress : ihor.bereaaazivskiy@gmail.com
+2023-02-08 03:10:49 INFO  Listener:29 - Session attribute added: HttpSessionBindingEvent : role : user
+2023-02-08 03:10:49 INFO  Listener:29 - Session attribute added: HttpSessionBindingEvent : userId : 56
+2023-02-08 03:10:49 INFO  Listener:29 - Session attribute added: HttpSessionBindingEvent : lockStatus : UNLOCKED
+2023-02-08 03:10:49 INFO  BookDAOImpl:108 - The result of the 'getCount' function is obtained
+2023-02-08 03:10:49 INFO  BookServiceImpl:92 - The result of the 'getCountBooksByTitle' function is obtained
+2023-02-08 03:10:49 INFO  BookDAOImpl:195 - The result of the 'getAll' function is obtained
+2023-02-08 03:10:49 INFO  BookServiceImpl:134 - The result of the 'getAll' function is obtained
+2023-02-08 03:10:49 INFO  Listener:44 - :HttpSessionBindingEvent:jakarta.servlet.jsp.jstl.fmt.request.charset:utf-8
+2023-02-08 03:10:49 INFO  BookDAOImpl:108 - The result of the 'getCount' function is obtained
+2023-02-08 03:10:49 INFO  BookServiceImpl:92 - The result of the 'getCountBooksByTitle' function is obtained
+2023-02-08 03:10:49 INFO  BookDAOImpl:195 - The result of the 'getAll' function is obtained
+2023-02-08 03:10:49 INFO  BookServiceImpl:134 - The result of the 'getAll' function is obtained
+2023-02-08 03:10:49 INFO  Listener:44 - :HttpSessionBindingEvent:jakarta.servlet.jsp.jstl.fmt.request.charset:utf-8
+2023-02-08 03:10:49 INFO  BookDAOImpl:108 - The result of the 'getCount' function is obtained
+2023-02-08 03:10:49 INFO  BookServiceImpl:92 - The result of the 'getCountBooksByTitle' function is obtained
+2023-02-08 03:10:49 INFO  BookDAOImpl:195 - The result of the 'getAll' function is obtained
+2023-02-08 03:10:49 INFO  BookServiceImpl:134 - The result of the 'getAll' function is obtained
+2023-02-08 03:10:49 INFO  Listener:44 - :HttpSessionBindingEvent:jakarta.servlet.jsp.jstl.fmt.request.charset:utf-8
+2023-02-08 03:10:52 INFO  BookDAOImpl:49 - The result of the 'getById' function is obtained
+2023-02-08 03:10:52 INFO  BookServiceImpl:30 - The result of the 'getById' function is obtained
+2023-02-08 03:10:52 INFO  BookDAOImpl:49 - The result of the 'getById' function is obtained
+2023-02-08 03:10:52 INFO  BookServiceImpl:30 - The result of the 'getById' function is obtained
+2023-02-08 03:10:52 INFO  Listener:29 - Session attribute added: HttpSessionBindingEvent : books : [Book{year=2019, publishingHouse='Vivat', bookTranslations=[BookTranslation{, title='Enejida', language='Language{name='eng'}', author='Ivan Kotlyarevsky'}], number=19}, Book{year=2019, publishingHouse='Terra Incognita', bookTranslations=[BookTranslation{, title='Kaidasheva family', language='Language{name='eng'}', author='Ivan Nechuy-Levytsky'}], number=19}]
+2023-02-08 03:10:53 INFO  Listener:44 - :HttpSessionBindingEvent:jakarta.servlet.jsp.jstl.fmt.request.charset:utf-8
+2023-02-08 03:10:53 INFO  BookDAOImpl:108 - The result of the 'getCount' function is obtained
+2023-02-08 03:10:53 INFO  BookServiceImpl:92 - The result of the 'getCountBooksByTitle' function is obtained
+2023-02-08 03:10:53 INFO  BookDAOImpl:195 - The result of the 'getAll' function is obtained
+2023-02-08 03:10:53 INFO  BookServiceImpl:134 - The result of the 'getAll' function is obtained
+2023-02-08 03:10:53 INFO  Listener:44 - :HttpSessionBindingEvent:jakarta.servlet.jsp.jstl.fmt.request.charset:UTF-8
+2023-02-08 03:11:15 INFO  BookDAOImpl:108 - The result of the 'getCount' function is obtained
+2023-02-08 03:11:15 INFO  BookServiceImpl:92 - The result of the 'getCountBooksByTitle' function is obtained
+2023-02-08 03:11:15 INFO  BookDAOImpl:195 - The result of the 'getAll' function is obtained
+2023-02-08 03:11:15 INFO  BookServiceImpl:134 - The result of the 'getAll' function is obtained
+2023-02-08 03:11:15 INFO  Listener:44 - :HttpSessionBindingEvent:jakarta.servlet.jsp.jstl.fmt.request.charset:utf-8
+2023-02-08 03:11:15 INFO  BookDAOImpl:108 - The result of the 'getCount' function is obtained
+2023-02-08 03:11:15 INFO  BookServiceImpl:92 - The result of the 'getCountBooksByTitle' function is obtained
+2023-02-08 03:11:15 INFO  BookDAOImpl:195 - The result of the 'getAll' function is obtained
+2023-02-08 03:11:15 INFO  BookServiceImpl:134 - The result of the 'getAll' function is obtained
+2023-02-08 03:11:15 INFO  Listener:44 - :HttpSessionBindingEvent:jakarta.servlet.jsp.jstl.fmt.request.charset:utf-8
+2023-02-08 03:11:15 INFO  BookDAOImpl:108 - The result of the 'getCount' function is obtained
+2023-02-08 03:11:15 INFO  BookServiceImpl:92 - The result of the 'getCountBooksByTitle' function is obtained
+2023-02-08 03:11:15 INFO  BookDAOImpl:195 - The result of the 'getAll' function is obtained
+2023-02-08 03:11:15 INFO  BookServiceImpl:134 - The result of the 'getAll' function is obtained
+2023-02-08 03:11:15 INFO  Listener:44 - :HttpSessionBindingEvent:jakarta.servlet.jsp.jstl.fmt.request.charset:utf-8
+2023-02-08 03:12:13 INFO  Listener:44 - :HttpSessionBindingEvent:language:eng
+2023-02-08 03:12:13 INFO  BookDAOImpl:108 - The result of the 'getCount' function is obtained
+2023-02-08 03:12:13 INFO  BookServiceImpl:92 - The result of the 'getCountBooksByTitle' function is obtained
+2023-02-08 03:12:13 INFO  BookDAOImpl:195 - The result of the 'getAll' function is obtained
+2023-02-08 03:12:13 INFO  BookServiceImpl:134 - The result of the 'getAll' function is obtained
+2023-02-08 03:12:13 INFO  Listener:44 - :HttpSessionBindingEvent:jakarta.servlet.jsp.jstl.fmt.request.charset:utf-8
+2023-02-08 03:12:13 INFO  Listener:44 - :HttpSessionBindingEvent:jakarta.servlet.jsp.jstl.fmt.request.charset:utf-8
+2023-02-08 03:12:13 INFO  BookDAOImpl:108 - The result of the 'getCount' function is obtained
+2023-02-08 03:12:13 INFO  BookServiceImpl:92 - The result of the 'getCountBooksByTitle' function is obtained
+2023-02-08 03:12:13 INFO  BookDAOImpl:195 - The result of the 'getAll' function is obtained
+2023-02-08 03:12:13 INFO  BookServiceImpl:134 - The result of the 'getAll' function is obtained
+2023-02-08 03:12:13 INFO  Listener:44 - :HttpSessionBindingEvent:jakarta.servlet.jsp.jstl.fmt.request.charset:utf-8
+2023-02-08 03:12:13 INFO  Listener:44 - :HttpSessionBindingEvent:jakarta.servlet.jsp.jstl.fmt.request.charset:utf-8
+2023-02-08 03:12:13 INFO  BookDAOImpl:108 - The result of the 'getCount' function is obtained
+2023-02-08 03:12:13 INFO  BookServiceImpl:92 - The result of the 'getCountBooksByTitle' function is obtained
+2023-02-08 03:12:13 INFO  BookDAOImpl:195 - The result of the 'getAll' function is obtained
+2023-02-08 03:12:13 INFO  BookServiceImpl:134 - The result of the 'getAll' function is obtained
+2023-02-08 03:12:13 INFO  Listener:44 - :HttpSessionBindingEvent:jakarta.servlet.jsp.jstl.fmt.request.charset:utf-8
+2023-02-08 03:12:13 INFO  Listener:44 - :HttpSessionBindingEvent:jakarta.servlet.jsp.jstl.fmt.request.charset:utf-8
+2023-02-08 03:12:16 INFO  BookDAOImpl:49 - The result of the 'getById' function is obtained
+2023-02-08 03:12:16 INFO  BookServiceImpl:30 - The result of the 'getById' function is obtained
+2023-02-08 03:12:16 INFO  BookDAOImpl:49 - The result of the 'getById' function is obtained
+2023-02-08 03:12:16 INFO  BookServiceImpl:30 - The result of the 'getById' function is obtained
+2023-02-08 03:12:16 INFO  Listener:44 - :HttpSessionBindingEvent:books:[Book{year=2019, publishingHouse='Vivat', bookTranslations=[BookTranslation{, title='Enejida', language='Language{name='eng'}', author='Ivan Kotlyarevsky'}], number=19}, Book{year=2019, publishingHouse='Terra Incognita', bookTranslations=[BookTranslation{, title='Kaidasheva family', language='Language{name='eng'}', author='Ivan Nechuy-Levytsky'}], number=19}]
+2023-02-08 03:12:16 INFO  Listener:44 - :HttpSessionBindingEvent:jakarta.servlet.jsp.jstl.fmt.request.charset:utf-8
+2023-02-08 03:12:16 INFO  Listener:44 - :HttpSessionBindingEvent:jakarta.servlet.jsp.jstl.fmt.request.charset:UTF-8
+2023-02-08 03:12:16 INFO  BookDAOImpl:108 - The result of the 'getCount' function is obtained
+2023-02-08 03:12:16 INFO  BookServiceImpl:92 - The result of the 'getCountBooksByTitle' function is obtained
+2023-02-08 03:12:17 INFO  BookDAOImpl:195 - The result of the 'getAll' function is obtained
+2023-02-08 03:12:17 INFO  BookServiceImpl:134 - The result of the 'getAll' function is obtained
+2023-02-08 03:12:17 INFO  Listener:44 - :HttpSessionBindingEvent:jakarta.servlet.jsp.jstl.fmt.request.charset:UTF-8
+2023-02-08 03:12:17 INFO  Listener:44 - :HttpSessionBindingEvent:jakarta.servlet.jsp.jstl.fmt.request.charset:utf-8
+2023-02-08 03:12:25 INFO  UserDAOImpl:96 - The result of the 'getByEmailAndPassword' function is obtained
+2023-02-08 03:12:25 INFO  UserServiceImpl:75 - The result of the 'getByEmailAndPassword' function is obtained
+2023-02-08 03:12:25 INFO  BookDAOImpl:357 - The 'changeNumber' function has been completed
+2023-02-08 03:12:25 INFO  BookServiceImpl:220 - The 'changeNumber' function has been completed
+2023-02-08 03:12:25 INFO  BookDAOImpl:357 - The 'changeNumber' function has been completed
+2023-02-08 03:12:25 INFO  BookServiceImpl:220 - The 'changeNumber' function has been completed
+2023-02-08 03:12:25 INFO  OrderDAOImpl:209 - The 'create' function has been completed
+2023-02-08 03:12:25 INFO  OrderServiceImpl:103 - The 'create' function has been completed
+2023-02-08 03:12:25 INFO  Listener:29 - Session attribute added: HttpSessionBindingEvent : popUps : order
+2023-02-08 03:12:25 INFO  BookDAOImpl:108 - The result of the 'getCount' function is obtained
+2023-02-08 03:12:25 INFO  BookServiceImpl:92 - The result of the 'getCountBooksByTitle' function is obtained
+2023-02-08 03:12:25 INFO  BookDAOImpl:195 - The result of the 'getAll' function is obtained
+2023-02-08 03:12:25 INFO  BookServiceImpl:134 - The result of the 'getAll' function is obtained
+2023-02-08 03:12:25 INFO  Listener:44 - :HttpSessionBindingEvent:jakarta.servlet.jsp.jstl.fmt.request.charset:utf-8
+2023-02-08 03:12:25 INFO  Listener:44 - :HttpSessionBindingEvent:jakarta.servlet.jsp.jstl.fmt.request.charset:utf-8
+2023-02-08 03:12:25 INFO  Listener:60 - Session attribute removed: HttpSessionBindingEvent : popUps : order
+2023-02-08 03:12:25 INFO  Listener:60 - Session attribute removed: HttpSessionBindingEvent : books : [Book{year=2019, publishingHouse='Vivat', bookTranslations=[BookTranslation{, title='Енеїда', language='Language{name='ua'}', author='Іван Котляревький'}], number=19}, Book{year=2019, publishingHouse='Terra Incognita', bookTranslations=[BookTranslation{, title='Кайдашева сім'я', language='Language{name='ua'}', author='Іван Нечуй-Левицький'}], number=19}]
+2023-02-08 03:12:26 INFO  BookDAOImpl:108 - The result of the 'getCount' function is obtained
+2023-02-08 03:12:26 INFO  BookServiceImpl:92 - The result of the 'getCountBooksByTitle' function is obtained
+2023-02-08 03:12:26 INFO  BookDAOImpl:195 - The result of the 'getAll' function is obtained
+2023-02-08 03:12:26 INFO  BookServiceImpl:134 - The result of the 'getAll' function is obtained
+2023-02-08 03:12:26 INFO  Listener:44 - :HttpSessionBindingEvent:jakarta.servlet.jsp.jstl.fmt.request.charset:utf-8
+2023-02-08 03:12:26 INFO  Listener:44 - :HttpSessionBindingEvent:jakarta.servlet.jsp.jstl.fmt.request.charset:utf-8
+2023-02-08 03:12:26 INFO  BookDAOImpl:108 - The result of the 'getCount' function is obtained
+2023-02-08 03:12:26 INFO  BookServiceImpl:92 - The result of the 'getCountBooksByTitle' function is obtained
+2023-02-08 03:12:26 INFO  BookDAOImpl:195 - The result of the 'getAll' function is obtained
+2023-02-08 03:12:26 INFO  BookServiceImpl:134 - The result of the 'getAll' function is obtained
+2023-02-08 03:12:26 INFO  Listener:44 - :HttpSessionBindingEvent:jakarta.servlet.jsp.jstl.fmt.request.charset:utf-8
+2023-02-08 03:12:26 INFO  Listener:44 - :HttpSessionBindingEvent:jakarta.servlet.jsp.jstl.fmt.request.charset:utf-8
+2023-02-08 03:12:32 INFO  OrderDAOImpl:97 - The result of the 'getAllByUserId' function is obtained
+2023-02-08 03:12:32 INFO  OrderServiceImpl:46 - The result of the 'getAllByUserId' function is obtained
+2023-02-08 03:12:33 INFO  Listener:44 - :HttpSessionBindingEvent:jakarta.servlet.jsp.jstl.fmt.request.charset:utf-8
+2023-02-08 03:12:33 INFO  Listener:44 - :HttpSessionBindingEvent:jakarta.servlet.jsp.jstl.fmt.request.charset:UTF-8
+2023-02-08 03:12:33 INFO  BookDAOImpl:108 - The result of the 'getCount' function is obtained
+2023-02-08 03:12:33 INFO  BookServiceImpl:92 - The result of the 'getCountBooksByTitle' function is obtained
+2023-02-08 03:12:33 INFO  BookDAOImpl:195 - The result of the 'getAll' function is obtained
+2023-02-08 03:12:33 INFO  BookServiceImpl:134 - The result of the 'getAll' function is obtained
+2023-02-08 03:12:33 INFO  Listener:44 - :HttpSessionBindingEvent:jakarta.servlet.jsp.jstl.fmt.request.charset:UTF-8
+2023-02-08 03:12:33 INFO  Listener:44 - :HttpSessionBindingEvent:jakarta.servlet.jsp.jstl.fmt.request.charset:utf-8
+2023-02-08 03:13:13 INFO  BookDAOImpl:108 - The result of the 'getCount' function is obtained
+2023-02-08 03:13:13 INFO  BookServiceImpl:92 - The result of the 'getCountBooksByTitle' function is obtained
+2023-02-08 03:13:13 INFO  BookDAOImpl:195 - The result of the 'getAll' function is obtained
+2023-02-08 03:13:13 INFO  BookServiceImpl:134 - The result of the 'getAll' function is obtained
+2023-02-08 03:13:13 INFO  Listener:44 - :HttpSessionBindingEvent:jakarta.servlet.jsp.jstl.fmt.request.charset:utf-8
+2023-02-08 03:13:13 INFO  Listener:44 - :HttpSessionBindingEvent:jakarta.servlet.jsp.jstl.fmt.request.charset:utf-8
+2023-02-08 03:13:13 INFO  BookDAOImpl:108 - The result of the 'getCount' function is obtained
+2023-02-08 03:13:13 INFO  BookServiceImpl:92 - The result of the 'getCountBooksByTitle' function is obtained
+2023-02-08 03:13:13 INFO  BookDAOImpl:195 - The result of the 'getAll' function is obtained
+2023-02-08 03:13:13 INFO  BookServiceImpl:134 - The result of the 'getAll' function is obtained
+2023-02-08 03:13:13 INFO  Listener:44 - :HttpSessionBindingEvent:jakarta.servlet.jsp.jstl.fmt.request.charset:utf-8
+2023-02-08 03:13:13 INFO  Listener:44 - :HttpSessionBindingEvent:jakarta.servlet.jsp.jstl.fmt.request.charset:utf-8
+2023-02-08 03:13:13 INFO  BookDAOImpl:108 - The result of the 'getCount' function is obtained
+2023-02-08 03:13:13 INFO  BookServiceImpl:92 - The result of the 'getCountBooksByTitle' function is obtained
+2023-02-08 03:13:13 INFO  BookDAOImpl:195 - The result of the 'getAll' function is obtained
+2023-02-08 03:13:13 INFO  BookServiceImpl:134 - The result of the 'getAll' function is obtained
+2023-02-08 03:13:13 INFO  Listener:44 - :HttpSessionBindingEvent:jakarta.servlet.jsp.jstl.fmt.request.charset:utf-8
+2023-02-08 03:13:13 INFO  Listener:44 - :HttpSessionBindingEvent:jakarta.servlet.jsp.jstl.fmt.request.charset:utf-8
+2023-02-08 03:13:15 INFO  Listener:60 - Session attribute removed: HttpSessionBindingEvent : password : GRENG2016
+2023-02-08 03:13:15 INFO  Listener:60 - Session attribute removed: HttpSessionBindingEvent : emailAddress : ihor.bereaaazivskiy@gmail.com
+2023-02-08 03:13:15 INFO  Listener:60 - Session attribute removed: HttpSessionBindingEvent : role : user
+2023-02-08 03:13:15 INFO  Listener:60 - Session attribute removed: HttpSessionBindingEvent : lockStatus : UNLOCKED
+2023-02-08 03:13:15 INFO  Listener:60 - Session attribute removed: HttpSessionBindingEvent : language : ua
+2023-02-08 03:13:15 INFO  Listener:60 - Session attribute removed: HttpSessionBindingEvent : userName : Ihor Berezovskyi
+2023-02-08 03:13:15 INFO  Listener:60 - Session attribute removed: HttpSessionBindingEvent : jakarta.servlet.jsp.jstl.fmt.request.charset : utf-8
+2023-02-08 03:13:15 INFO  Listener:60 - Session attribute removed: HttpSessionBindingEvent : userId : 56
+2023-02-08 03:13:15 INFO  Listener:29 - Session attribute added: HttpSessionBindingEvent : language : eng
+2023-02-08 03:13:15 INFO  BookDAOImpl:108 - The result of the 'getCount' function is obtained
+2023-02-08 03:13:15 INFO  BookServiceImpl:92 - The result of the 'getCountBooksByTitle' function is obtained
+2023-02-08 03:13:15 INFO  BookDAOImpl:195 - The result of the 'getAll' function is obtained
+2023-02-08 03:13:15 INFO  BookServiceImpl:134 - The result of the 'getAll' function is obtained
+2023-02-08 03:13:15 INFO  Listener:29 - Session attribute added: HttpSessionBindingEvent : jakarta.servlet.jsp.jstl.fmt.request.charset : utf-8
+2023-02-08 03:13:15 INFO  BookDAOImpl:108 - The result of the 'getCount' function is obtained
+2023-02-08 03:13:15 INFO  BookServiceImpl:92 - The result of the 'getCountBooksByTitle' function is obtained
+2023-02-08 03:13:15 INFO  BookDAOImpl:195 - The result of the 'getAll' function is obtained
+2023-02-08 03:13:15 INFO  BookServiceImpl:134 - The result of the 'getAll' function is obtained
+2023-02-08 03:13:15 INFO  Listener:44 - :HttpSessionBindingEvent:jakarta.servlet.jsp.jstl.fmt.request.charset:utf-8
+2023-02-08 03:13:15 INFO  BookDAOImpl:108 - The result of the 'getCount' function is obtained
+2023-02-08 03:13:15 INFO  BookServiceImpl:92 - The result of the 'getCountBooksByTitle' function is obtained
+2023-02-08 03:13:15 INFO  BookDAOImpl:195 - The result of the 'getAll' function is obtained
+2023-02-08 03:13:15 INFO  BookServiceImpl:134 - The result of the 'getAll' function is obtained
+2023-02-08 03:13:15 INFO  Listener:44 - :HttpSessionBindingEvent:jakarta.servlet.jsp.jstl.fmt.request.charset:utf-8
+2023-02-08 03:13:16 INFO  Listener:44 - :HttpSessionBindingEvent:jakarta.servlet.jsp.jstl.fmt.request.charset:utf-8
+2023-02-08 03:13:16 INFO  BookDAOImpl:108 - The result of the 'getCount' function is obtained
+2023-02-08 03:13:16 INFO  BookServiceImpl:92 - The result of the 'getCountBooksByTitle' function is obtained
+2023-02-08 03:13:16 INFO  BookDAOImpl:195 - The result of the 'getAll' function is obtained
+2023-02-08 03:13:16 INFO  BookServiceImpl:134 - The result of the 'getAll' function is obtained
+2023-02-08 03:13:16 INFO  Listener:44 - :HttpSessionBindingEvent:jakarta.servlet.jsp.jstl.fmt.request.charset:utf-8
+2023-02-08 03:13:16 INFO  BookDAOImpl:108 - The result of the 'getCount' function is obtained
+2023-02-08 03:13:16 INFO  BookServiceImpl:92 - The result of the 'getCountBooksByTitle' function is obtained
+2023-02-08 03:13:16 INFO  BookDAOImpl:195 - The result of the 'getAll' function is obtained
+2023-02-08 03:13:16 INFO  BookServiceImpl:134 - The result of the 'getAll' function is obtained
+2023-02-08 03:13:16 INFO  Listener:44 - :HttpSessionBindingEvent:jakarta.servlet.jsp.jstl.fmt.request.charset:utf-8
+2023-02-08 03:13:24 INFO  UserDAOImpl:96 - The result of the 'getByEmailAndPassword' function is obtained
+2023-02-08 03:13:24 INFO  UserServiceImpl:75 - The result of the 'getByEmailAndPassword' function is obtained
+2023-02-08 03:13:24 INFO  Listener:29 - Session attribute added: HttpSessionBindingEvent : password : GRENG2016
+2023-02-08 03:13:24 INFO  Listener:29 - Session attribute added: HttpSessionBindingEvent : userName : librarian
+2023-02-08 03:13:24 INFO  Listener:29 - Session attribute added: HttpSessionBindingEvent : emailAddress : newLibrarian@gmail.com
+2023-02-08 03:13:24 INFO  Listener:29 - Session attribute added: HttpSessionBindingEvent : role : librarian
+2023-02-08 03:13:24 INFO  Listener:29 - Session attribute added: HttpSessionBindingEvent : userId : 54
+2023-02-08 03:13:24 INFO  Listener:29 - Session attribute added: HttpSessionBindingEvent : lockStatus : UNLOCKED
+2023-02-08 03:13:24 INFO  PassDAOImpl:134 - The result of the 'getAll' function is obtained
+2023-02-08 03:13:24 INFO  PassServiceImpl:143 - The 'add' function has been completed
+2023-02-08 03:13:24 INFO  OrderDAOImpl:157 - The result of the 'getAll' function is obtained
+2023-02-08 03:13:24 INFO  OrderServiceImpl:84 - The result of the 'getAll' function is obtained
+2023-02-08 03:13:24 INFO  PassDAOImpl:134 - The result of the 'getAll' function is obtained
+2023-02-08 03:13:24 INFO  PassServiceImpl:94 - The result of the 'getAll' function is obtained
+2023-02-08 03:13:25 INFO  BookDAOImpl:108 - The result of the 'getCount' function is obtained
+2023-02-08 03:13:25 INFO  BookServiceImpl:92 - The result of the 'getCountBooksByTitle' function is obtained
+2023-02-08 03:13:25 INFO  BookDAOImpl:195 - The result of the 'getAll' function is obtained
+2023-02-08 03:13:25 INFO  BookServiceImpl:134 - The result of the 'getAll' function is obtained
+2023-02-08 03:13:25 INFO  Listener:44 - :HttpSessionBindingEvent:jakarta.servlet.jsp.jstl.fmt.request.charset:utf-8
+2023-02-08 03:13:48 INFO  Listener:60 - Session attribute removed: HttpSessionBindingEvent : language : eng
+2023-02-08 03:13:48 INFO  Listener:60 - Session attribute removed: HttpSessionBindingEvent : jakarta.servlet.jsp.jstl.fmt.request.charset : utf-8
+2023-02-08 03:13:48 INFO  Listener:60 - Session attribute removed: HttpSessionBindingEvent : language : eng
+2023-02-08 03:13:48 INFO  Listener:60 - Session attribute removed: HttpSessionBindingEvent : jakarta.servlet.jsp.jstl.fmt.request.charset : utf-8
+2023-02-08 03:13:48 INFO  Listener:60 - Session attribute removed: HttpSessionBindingEvent : password : GRENG2016
+2023-02-08 03:13:48 INFO  Listener:60 - Session attribute removed: HttpSessionBindingEvent : emailAddress : newLibrarian@gmail.com
+2023-02-08 03:13:48 INFO  Listener:60 - Session attribute removed: HttpSessionBindingEvent : role : librarian
+2023-02-08 03:13:48 INFO  Listener:60 - Session attribute removed: HttpSessionBindingEvent : lockStatus : UNLOCKED
+2023-02-08 03:13:48 INFO  Listener:60 - Session attribute removed: HttpSessionBindingEvent : language : eng
+2023-02-08 03:13:48 INFO  Listener:60 - Session attribute removed: HttpSessionBindingEvent : userName : librarian
+2023-02-08 03:13:48 INFO  Listener:60 - Session attribute removed: HttpSessionBindingEvent : jakarta.servlet.jsp.jstl.fmt.request.charset : utf-8
+2023-02-08 03:13:48 INFO  Listener:60 - Session attribute removed: HttpSessionBindingEvent : userId : 54
+2023-02-08 03:13:59 INFO  Listener:29 - Session attribute added: HttpSessionBindingEvent : language : eng
+2023-02-08 03:14:00 INFO  BookDAOImpl:108 - The result of the 'getCount' function is obtained
+2023-02-08 03:14:00 INFO  BookServiceImpl:92 - The result of the 'getCountBooksByTitle' function is obtained
+2023-02-08 03:14:00 INFO  BookDAOImpl:195 - The result of the 'getAll' function is obtained
+2023-02-08 03:14:00 INFO  BookServiceImpl:134 - The result of the 'getAll' function is obtained
+2023-02-08 03:14:02 INFO  Listener:29 - Session attribute added: HttpSessionBindingEvent : jakarta.servlet.jsp.jstl.fmt.request.charset : utf-8
+2023-02-08 03:14:02 INFO  Listener:29 - Session attribute added: HttpSessionBindingEvent : language : eng
+2023-02-08 03:14:02 INFO  BookDAOImpl:108 - The result of the 'getCount' function is obtained
+2023-02-08 03:14:02 INFO  BookServiceImpl:92 - The result of the 'getCountBooksByTitle' function is obtained
+2023-02-08 03:14:02 INFO  BookDAOImpl:195 - The result of the 'getAll' function is obtained
+2023-02-08 03:14:02 INFO  BookServiceImpl:134 - The result of the 'getAll' function is obtained
+2023-02-08 03:14:02 INFO  Listener:29 - Session attribute added: HttpSessionBindingEvent : jakarta.servlet.jsp.jstl.fmt.request.charset : utf-8
+2023-02-08 03:14:02 INFO  Listener:29 - Session attribute added: HttpSessionBindingEvent : language : eng
+2023-02-08 03:14:02 INFO  BookDAOImpl:108 - The result of the 'getCount' function is obtained
+2023-02-08 03:14:02 INFO  BookServiceImpl:92 - The result of the 'getCountBooksByTitle' function is obtained
+2023-02-08 03:14:02 INFO  BookDAOImpl:195 - The result of the 'getAll' function is obtained
+2023-02-08 03:14:02 INFO  BookServiceImpl:134 - The result of the 'getAll' function is obtained
+2023-02-08 03:14:02 INFO  Listener:29 - Session attribute added: HttpSessionBindingEvent : jakarta.servlet.jsp.jstl.fmt.request.charset : utf-8
+2023-02-08 03:14:03 INFO  BookDAOImpl:108 - The result of the 'getCount' function is obtained
+2023-02-08 03:14:03 INFO  BookServiceImpl:92 - The result of the 'getCountBooksByTitle' function is obtained
+2023-02-08 03:14:03 INFO  BookDAOImpl:195 - The result of the 'getAll' function is obtained
+2023-02-08 03:14:03 INFO  BookServiceImpl:134 - The result of the 'getAll' function is obtained
+2023-02-08 03:14:03 INFO  Listener:44 - :HttpSessionBindingEvent:jakarta.servlet.jsp.jstl.fmt.request.charset:utf-8
+2023-02-08 03:14:03 INFO  BookDAOImpl:108 - The result of the 'getCount' function is obtained
+2023-02-08 03:14:03 INFO  BookServiceImpl:92 - The result of the 'getCountBooksByTitle' function is obtained
+2023-02-08 03:14:03 INFO  BookDAOImpl:195 - The result of the 'getAll' function is obtained
+2023-02-08 03:14:03 INFO  BookServiceImpl:134 - The result of the 'getAll' function is obtained
+2023-02-08 03:14:03 INFO  Listener:44 - :HttpSessionBindingEvent:jakarta.servlet.jsp.jstl.fmt.request.charset:utf-8
+2023-02-08 03:14:05 INFO  Listener:44 - :HttpSessionBindingEvent:jakarta.servlet.jsp.jstl.fmt.request.charset:utf-8
+2023-02-08 03:14:05 INFO  BookDAOImpl:108 - The result of the 'getCount' function is obtained
+2023-02-08 03:14:05 INFO  BookServiceImpl:92 - The result of the 'getCountBooksByTitle' function is obtained
+2023-02-08 03:14:05 INFO  BookDAOImpl:195 - The result of the 'getAll' function is obtained
+2023-02-08 03:14:05 INFO  BookServiceImpl:134 - The result of the 'getAll' function is obtained
+2023-02-08 03:14:05 INFO  Listener:44 - :HttpSessionBindingEvent:jakarta.servlet.jsp.jstl.fmt.request.charset:utf-8
+2023-02-08 03:14:06 INFO  BookDAOImpl:108 - The result of the 'getCount' function is obtained
+2023-02-08 03:14:06 INFO  BookServiceImpl:92 - The result of the 'getCountBooksByTitle' function is obtained
+2023-02-08 03:14:06 INFO  BookDAOImpl:195 - The result of the 'getAll' function is obtained
+2023-02-08 03:14:06 INFO  BookServiceImpl:134 - The result of the 'getAll' function is obtained
+2023-02-08 03:14:06 INFO  Listener:44 - :HttpSessionBindingEvent:jakarta.servlet.jsp.jstl.fmt.request.charset:utf-8
+2023-02-08 03:14:24 INFO  UserDAOImpl:96 - The result of the 'getByEmailAndPassword' function is obtained
+2023-02-08 03:14:24 INFO  UserServiceImpl:75 - The result of the 'getByEmailAndPassword' function is obtained
+2023-02-08 03:14:24 INFO  Listener:29 - Session attribute added: HttpSessionBindingEvent : password : GRENG2016
+2023-02-08 03:14:24 INFO  Listener:29 - Session attribute added: HttpSessionBindingEvent : userName : adminnnn
+2023-02-08 03:14:24 INFO  Listener:29 - Session attribute added: HttpSessionBindingEvent : emailAddress : ihorr12r@gmail.com
+2023-02-08 03:14:24 INFO  Listener:29 - Session attribute added: HttpSessionBindingEvent : role : admin
+2023-02-08 03:14:24 INFO  Listener:29 - Session attribute added: HttpSessionBindingEvent : userId : 18
+2023-02-08 03:14:24 INFO  Listener:29 - Session attribute added: HttpSessionBindingEvent : lockStatus : UNLOCKED
+2023-02-08 03:14:24 INFO  BookDAOImpl:108 - The result of the 'getCount' function is obtained
+2023-02-08 03:14:24 INFO  BookServiceImpl:92 - The result of the 'getCountBooksByTitle' function is obtained
+2023-02-08 03:14:24 INFO  BookDAOImpl:261 - The result of the 'getTranslation' function is obtained
+2023-02-08 03:14:24 INFO  BookDAOImpl:261 - The result of the 'getTranslation' function is obtained
+2023-02-08 03:14:24 INFO  BookDAOImpl:261 - The result of the 'getTranslation' function is obtained
+2023-02-08 03:14:24 INFO  BookDAOImpl:261 - The result of the 'getTranslation' function is obtained
+2023-02-08 03:14:24 INFO  BookDAOImpl:261 - The result of the 'getTranslation' function is obtained
+2023-02-08 03:14:24 INFO  BookDAOImpl:232 - The result of the 'getAllForAdmin' function is obtained
+2023-02-08 03:14:24 INFO  BookServiceImpl:155 - The result of the 'getAllForAdmin' function is obtained
+2023-02-08 03:14:24 INFO  LibrarianDAOImpl:91 - The result of the 'getAll' function is obtained
+2023-02-08 03:14:24 INFO  LibrarianServiceImpl:68 - The result of the 'getAll' function is obtained
+2023-02-08 03:14:24 INFO  UserDAOImpl:157 - The result of the 'getAll' function at UserDaoImpl is not obtained
+2023-02-08 03:14:24 INFO  UserServiceImpl:115 - The result of the 'getAll' function at UserDaoImpl is not obtained
+2023-02-08 03:14:24 INFO  BookDAOImpl:108 - The result of the 'getCount' function is obtained
+2023-02-08 03:14:24 INFO  BookServiceImpl:92 - The result of the 'getCountBooksByTitle' function is obtained
+2023-02-08 03:14:24 INFO  BookDAOImpl:195 - The result of the 'getAll' function is obtained
+2023-02-08 03:14:24 INFO  BookServiceImpl:134 - The result of the 'getAll' function is obtained
+2023-02-08 03:14:24 INFO  Listener:44 - :HttpSessionBindingEvent:jakarta.servlet.jsp.jstl.fmt.request.charset:utf-8
+2023-02-08 03:14:24 INFO  BookDAOImpl:108 - The result of the 'getCount' function is obtained
+2023-02-08 03:14:24 INFO  BookServiceImpl:92 - The result of the 'getCountBooksByTitle' function is obtained
+2023-02-08 03:14:24 INFO  BookDAOImpl:195 - The result of the 'getAll' function is obtained
+2023-02-08 03:14:24 INFO  BookServiceImpl:134 - The result of the 'getAll' function is obtained
+2023-02-08 03:14:24 INFO  Listener:44 - :HttpSessionBindingEvent:jakarta.servlet.jsp.jstl.fmt.request.charset:utf-8
+2023-02-08 03:14:30 INFO  Listener:60 - Session attribute removed: HttpSessionBindingEvent : password : GRENG2016
+2023-02-08 03:14:30 INFO  Listener:60 - Session attribute removed: HttpSessionBindingEvent : emailAddress : ihorr12r@gmail.com
+2023-02-08 03:14:30 INFO  Listener:60 - Session attribute removed: HttpSessionBindingEvent : role : admin
+2023-02-08 03:14:30 INFO  Listener:60 - Session attribute removed: HttpSessionBindingEvent : lockStatus : UNLOCKED
+2023-02-08 03:14:30 INFO  Listener:60 - Session attribute removed: HttpSessionBindingEvent : language : eng
+2023-02-08 03:14:30 INFO  Listener:60 - Session attribute removed: HttpSessionBindingEvent : userName : adminnnn
+2023-02-08 03:14:30 INFO  Listener:60 - Session attribute removed: HttpSessionBindingEvent : jakarta.servlet.jsp.jstl.fmt.request.charset : utf-8
+2023-02-08 03:14:30 INFO  Listener:60 - Session attribute removed: HttpSessionBindingEvent : userId : 18
+2023-02-08 03:14:30 INFO  Listener:29 - Session attribute added: HttpSessionBindingEvent : language : eng
+2023-02-08 03:14:30 INFO  BookDAOImpl:108 - The result of the 'getCount' function is obtained
+2023-02-08 03:14:30 INFO  BookServiceImpl:92 - The result of the 'getCountBooksByTitle' function is obtained
+2023-02-08 03:14:30 INFO  BookDAOImpl:195 - The result of the 'getAll' function is obtained
+2023-02-08 03:14:30 INFO  BookServiceImpl:134 - The result of the 'getAll' function is obtained
+2023-02-08 03:14:30 INFO  Listener:29 - Session attribute added: HttpSessionBindingEvent : jakarta.servlet.jsp.jstl.fmt.request.charset : utf-8
+2023-02-08 03:14:30 INFO  BookDAOImpl:108 - The result of the 'getCount' function is obtained
+2023-02-08 03:14:30 INFO  BookServiceImpl:92 - The result of the 'getCountBooksByTitle' function is obtained
+2023-02-08 03:14:30 INFO  BookDAOImpl:195 - The result of the 'getAll' function is obtained
+2023-02-08 03:14:30 INFO  BookServiceImpl:134 - The result of the 'getAll' function is obtained
+2023-02-08 03:14:30 INFO  Listener:44 - :HttpSessionBindingEvent:jakarta.servlet.jsp.jstl.fmt.request.charset:utf-8
+2023-02-08 03:14:30 INFO  BookDAOImpl:108 - The result of the 'getCount' function is obtained
+2023-02-08 03:14:30 INFO  BookServiceImpl:92 - The result of the 'getCountBooksByTitle' function is obtained
+2023-02-08 03:14:30 INFO  BookDAOImpl:195 - The result of the 'getAll' function is obtained
+2023-02-08 03:14:30 INFO  BookServiceImpl:134 - The result of the 'getAll' function is obtained
+2023-02-08 03:14:30 INFO  Listener:44 - :HttpSessionBindingEvent:jakarta.servlet.jsp.jstl.fmt.request.charset:utf-8
+2023-02-08 03:14:35 INFO  Listener:44 - :HttpSessionBindingEvent:jakarta.servlet.jsp.jstl.fmt.request.charset:utf-8
+2023-02-08 03:14:36 INFO  BookDAOImpl:108 - The result of the 'getCount' function is obtained
+2023-02-08 03:14:36 INFO  BookServiceImpl:92 - The result of the 'getCountBooksByTitle' function is obtained
+2023-02-08 03:14:36 INFO  BookDAOImpl:195 - The result of the 'getAll' function is obtained
+2023-02-08 03:14:36 INFO  BookServiceImpl:134 - The result of the 'getAll' function is obtained
+2023-02-08 03:14:36 INFO  Listener:44 - :HttpSessionBindingEvent:jakarta.servlet.jsp.jstl.fmt.request.charset:utf-8
+2023-02-08 03:14:36 INFO  BookDAOImpl:108 - The result of the 'getCount' function is obtained
+2023-02-08 03:14:36 INFO  BookServiceImpl:92 - The result of the 'getCountBooksByTitle' function is obtained
+2023-02-08 03:14:36 INFO  BookDAOImpl:195 - The result of the 'getAll' function is obtained
+2023-02-08 03:14:36 INFO  BookServiceImpl:134 - The result of the 'getAll' function is obtained
+2023-02-08 03:14:36 INFO  Listener:44 - :HttpSessionBindingEvent:jakarta.servlet.jsp.jstl.fmt.request.charset:utf-8
+2023-02-08 03:14:40 INFO  UserDAOImpl:96 - The result of the 'getByEmailAndPassword' function is obtained
+2023-02-08 03:14:40 INFO  UserServiceImpl:75 - The result of the 'getByEmailAndPassword' function is obtained
+2023-02-08 03:14:40 INFO  Listener:29 - Session attribute added: HttpSessionBindingEvent : password : GRENG2016
+2023-02-08 03:14:40 INFO  Listener:29 - Session attribute added: HttpSessionBindingEvent : userName : librarian
+2023-02-08 03:14:40 INFO  Listener:29 - Session attribute added: HttpSessionBindingEvent : emailAddress : newLibrarian@gmail.com
+2023-02-08 03:14:40 INFO  Listener:29 - Session attribute added: HttpSessionBindingEvent : role : librarian
+2023-02-08 03:14:40 INFO  Listener:29 - Session attribute added: HttpSessionBindingEvent : userId : 54
+2023-02-08 03:14:40 INFO  Listener:29 - Session attribute added: HttpSessionBindingEvent : lockStatus : UNLOCKED
+2023-02-08 03:14:40 INFO  PassDAOImpl:134 - The result of the 'getAll' function is obtained
+2023-02-08 03:14:40 INFO  PassServiceImpl:143 - The 'add' function has been completed
+2023-02-08 03:14:41 INFO  OrderDAOImpl:157 - The result of the 'getAll' function is obtained
+2023-02-08 03:14:41 INFO  OrderServiceImpl:84 - The result of the 'getAll' function is obtained
+2023-02-08 03:14:41 INFO  PassDAOImpl:134 - The result of the 'getAll' function is obtained
+2023-02-08 03:14:41 INFO  PassServiceImpl:94 - The result of the 'getAll' function is obtained
+2023-02-08 03:14:41 INFO  BookDAOImpl:108 - The result of the 'getCount' function is obtained
+2023-02-08 03:14:41 INFO  BookServiceImpl:92 - The result of the 'getCountBooksByTitle' function is obtained
+2023-02-08 03:14:41 INFO  BookDAOImpl:195 - The result of the 'getAll' function is obtained
+2023-02-08 03:14:41 INFO  BookServiceImpl:134 - The result of the 'getAll' function is obtained
+2023-02-08 03:14:41 INFO  Listener:44 - :HttpSessionBindingEvent:jakarta.servlet.jsp.jstl.fmt.request.charset:utf-8
+2023-02-08 03:15:31 INFO  Listener:60 - Session attribute removed: HttpSessionBindingEvent : language : eng
+2023-02-08 03:15:31 INFO  Listener:60 - Session attribute removed: HttpSessionBindingEvent : jakarta.servlet.jsp.jstl.fmt.request.charset : utf-8
+2023-02-08 03:15:31 INFO  Listener:60 - Session attribute removed: HttpSessionBindingEvent : password : GRENG2016
+2023-02-08 03:15:31 INFO  Listener:60 - Session attribute removed: HttpSessionBindingEvent : emailAddress : newLibrarian@gmail.com
+2023-02-08 03:15:31 INFO  Listener:60 - Session attribute removed: HttpSessionBindingEvent : role : librarian
+2023-02-08 03:15:31 INFO  Listener:60 - Session attribute removed: HttpSessionBindingEvent : lockStatus : UNLOCKED
+2023-02-08 03:15:31 INFO  Listener:60 - Session attribute removed: HttpSessionBindingEvent : language : eng
+2023-02-08 03:15:31 INFO  Listener:60 - Session attribute removed: HttpSessionBindingEvent : userName : librarian
+2023-02-08 03:15:31 INFO  Listener:60 - Session attribute removed: HttpSessionBindingEvent : jakarta.servlet.jsp.jstl.fmt.request.charset : utf-8
+2023-02-08 03:15:31 INFO  Listener:60 - Session attribute removed: HttpSessionBindingEvent : userId : 54
+2023-02-08 03:15:31 INFO  Listener:60 - Session attribute removed: HttpSessionBindingEvent : language : eng
+2023-02-08 03:15:31 INFO  Listener:60 - Session attribute removed: HttpSessionBindingEvent : jakarta.servlet.jsp.jstl.fmt.request.charset : utf-8
+2023-02-08 03:15:43 INFO  Listener:29 - Session attribute added: HttpSessionBindingEvent : language : eng
+2023-02-08 03:15:43 INFO  BookDAOImpl:108 - The result of the 'getCount' function is obtained
+2023-02-08 03:15:43 INFO  BookServiceImpl:92 - The result of the 'getCountBooksByTitle' function is obtained
+2023-02-08 03:15:43 INFO  BookDAOImpl:195 - The result of the 'getAll' function is obtained
+2023-02-08 03:15:43 INFO  BookServiceImpl:134 - The result of the 'getAll' function is obtained
+2023-02-08 03:15:45 INFO  Listener:29 - Session attribute added: HttpSessionBindingEvent : jakarta.servlet.jsp.jstl.fmt.request.charset : utf-8
+2023-02-08 03:15:45 INFO  Listener:29 - Session attribute added: HttpSessionBindingEvent : language : eng
+2023-02-08 03:15:45 INFO  BookDAOImpl:108 - The result of the 'getCount' function is obtained
+2023-02-08 03:15:45 INFO  BookServiceImpl:92 - The result of the 'getCountBooksByTitle' function is obtained
+2023-02-08 03:15:45 INFO  BookDAOImpl:195 - The result of the 'getAll' function is obtained
+2023-02-08 03:15:45 INFO  BookServiceImpl:134 - The result of the 'getAll' function is obtained
+2023-02-08 03:15:45 INFO  Listener:29 - Session attribute added: HttpSessionBindingEvent : jakarta.servlet.jsp.jstl.fmt.request.charset : utf-8
+2023-02-08 03:15:46 INFO  Listener:29 - Session attribute added: HttpSessionBindingEvent : language : eng
+2023-02-08 03:15:46 INFO  BookDAOImpl:108 - The result of the 'getCount' function is obtained
+2023-02-08 03:15:46 INFO  BookServiceImpl:92 - The result of the 'getCountBooksByTitle' function is obtained
+2023-02-08 03:15:46 INFO  BookDAOImpl:195 - The result of the 'getAll' function is obtained
+2023-02-08 03:15:46 INFO  BookServiceImpl:134 - The result of the 'getAll' function is obtained
+2023-02-08 03:15:46 INFO  Listener:29 - Session attribute added: HttpSessionBindingEvent : jakarta.servlet.jsp.jstl.fmt.request.charset : utf-8
+2023-02-08 03:15:46 INFO  BookDAOImpl:108 - The result of the 'getCount' function is obtained
+2023-02-08 03:15:46 INFO  BookServiceImpl:92 - The result of the 'getCountBooksByTitle' function is obtained
+2023-02-08 03:15:46 INFO  BookDAOImpl:195 - The result of the 'getAll' function is obtained
+2023-02-08 03:15:46 INFO  BookServiceImpl:134 - The result of the 'getAll' function is obtained
+2023-02-08 03:15:46 INFO  Listener:44 - :HttpSessionBindingEvent:jakarta.servlet.jsp.jstl.fmt.request.charset:utf-8
+2023-02-08 03:15:46 INFO  BookDAOImpl:108 - The result of the 'getCount' function is obtained
+2023-02-08 03:15:46 INFO  BookServiceImpl:92 - The result of the 'getCountBooksByTitle' function is obtained
+2023-02-08 03:15:46 INFO  BookDAOImpl:195 - The result of the 'getAll' function is obtained
+2023-02-08 03:15:46 INFO  BookServiceImpl:134 - The result of the 'getAll' function is obtained
+2023-02-08 03:15:46 INFO  Listener:44 - :HttpSessionBindingEvent:jakarta.servlet.jsp.jstl.fmt.request.charset:utf-8
+2023-02-08 03:15:52 INFO  Listener:44 - :HttpSessionBindingEvent:jakarta.servlet.jsp.jstl.fmt.request.charset:utf-8
+2023-02-08 03:15:52 INFO  BookDAOImpl:108 - The result of the 'getCount' function is obtained
+2023-02-08 03:15:52 INFO  BookServiceImpl:92 - The result of the 'getCountBooksByTitle' function is obtained
+2023-02-08 03:15:52 INFO  BookDAOImpl:195 - The result of the 'getAll' function is obtained
+2023-02-08 03:15:52 INFO  BookServiceImpl:134 - The result of the 'getAll' function is obtained
+2023-02-08 03:15:52 INFO  Listener:44 - :HttpSessionBindingEvent:jakarta.servlet.jsp.jstl.fmt.request.charset:utf-8
+2023-02-08 03:15:52 INFO  BookDAOImpl:108 - The result of the 'getCount' function is obtained
+2023-02-08 03:15:52 INFO  BookServiceImpl:92 - The result of the 'getCountBooksByTitle' function is obtained
+2023-02-08 03:15:52 INFO  BookDAOImpl:195 - The result of the 'getAll' function is obtained
+2023-02-08 03:15:52 INFO  BookServiceImpl:134 - The result of the 'getAll' function is obtained
+2023-02-08 03:15:52 INFO  Listener:44 - :HttpSessionBindingEvent:jakarta.servlet.jsp.jstl.fmt.request.charset:utf-8
+2023-02-08 03:16:00 INFO  UserDAOImpl:96 - The result of the 'getByEmailAndPassword' function is obtained
+2023-02-08 03:16:00 INFO  UserServiceImpl:75 - The result of the 'getByEmailAndPassword' function is obtained
+2023-02-08 03:16:00 INFO  Listener:29 - Session attribute added: HttpSessionBindingEvent : password : GRENG2016
+2023-02-08 03:16:00 INFO  Listener:29 - Session attribute added: HttpSessionBindingEvent : userName : librarian
+2023-02-08 03:16:00 INFO  Listener:29 - Session attribute added: HttpSessionBindingEvent : emailAddress : newLibrarian@gmail.com
+2023-02-08 03:16:00 INFO  Listener:29 - Session attribute added: HttpSessionBindingEvent : role : librarian
+2023-02-08 03:16:00 INFO  Listener:29 - Session attribute added: HttpSessionBindingEvent : userId : 54
+2023-02-08 03:16:00 INFO  Listener:29 - Session attribute added: HttpSessionBindingEvent : lockStatus : UNLOCKED
+2023-02-08 03:16:00 INFO  PassDAOImpl:134 - The result of the 'getAll' function is obtained
+2023-02-08 03:16:00 INFO  PassServiceImpl:143 - The 'add' function has been completed
+2023-02-08 03:16:00 INFO  OrderDAOImpl:157 - The result of the 'getAll' function is obtained
+2023-02-08 03:16:00 INFO  OrderServiceImpl:84 - The result of the 'getAll' function is obtained
+2023-02-08 03:16:00 INFO  PassDAOImpl:134 - The result of the 'getAll' function is obtained
+2023-02-08 03:16:00 INFO  PassServiceImpl:94 - The result of the 'getAll' function is obtained
+2023-02-08 03:16:00 INFO  BookDAOImpl:108 - The result of the 'getCount' function is obtained
+2023-02-08 03:16:00 INFO  BookServiceImpl:92 - The result of the 'getCountBooksByTitle' function is obtained
+2023-02-08 03:16:00 INFO  BookDAOImpl:195 - The result of the 'getAll' function is obtained
+2023-02-08 03:16:00 INFO  BookServiceImpl:134 - The result of the 'getAll' function is obtained
+2023-02-08 03:16:00 INFO  Listener:44 - :HttpSessionBindingEvent:jakarta.servlet.jsp.jstl.fmt.request.charset:utf-8
+2023-02-08 03:16:01 INFO  BookDAOImpl:108 - The result of the 'getCount' function is obtained
+2023-02-08 03:16:01 INFO  BookServiceImpl:92 - The result of the 'getCountBooksByTitle' function is obtained
+2023-02-08 03:16:01 INFO  BookDAOImpl:195 - The result of the 'getAll' function is obtained
+2023-02-08 03:16:01 INFO  BookServiceImpl:134 - The result of the 'getAll' function is obtained
+2023-02-08 03:16:01 INFO  Listener:44 - :HttpSessionBindingEvent:jakarta.servlet.jsp.jstl.fmt.request.charset:utf-8
+2023-02-08 03:16:44 INFO  PassDAOImpl:107 - The 'create' function has been completed
+2023-02-08 03:16:44 INFO  PassServiceImpl:75 - The 'create' function has been completed
+2023-02-08 03:16:44 INFO  OrderDAOImpl:67 - The 'submit' function has been completed
+2023-02-08 03:16:44 INFO  OrderServiceImpl:120 - The 'submit' function has been completed
+2023-02-08 03:16:44 INFO  OrderDAOImpl:67 - The 'submit' function has been completed
+2023-02-08 03:16:44 INFO  OrderServiceImpl:120 - The 'submit' function has been completed
+2023-02-08 03:16:44 INFO  PassDAOImpl:134 - The result of the 'getAll' function is obtained
+2023-02-08 03:16:44 INFO  PassServiceImpl:143 - The 'add' function has been completed
+2023-02-08 03:16:44 INFO  OrderDAOImpl:157 - The result of the 'getAll' function is obtained
+2023-02-08 03:16:44 INFO  OrderServiceImpl:84 - The result of the 'getAll' function is obtained
+2023-02-08 03:16:44 INFO  PassDAOImpl:134 - The result of the 'getAll' function is obtained
+2023-02-08 03:16:44 INFO  PassServiceImpl:94 - The result of the 'getAll' function is obtained
+2023-02-08 03:16:44 INFO  BookDAOImpl:108 - The result of the 'getCount' function is obtained
+2023-02-08 03:16:44 INFO  BookServiceImpl:92 - The result of the 'getCountBooksByTitle' function is obtained
+2023-02-08 03:16:44 INFO  BookDAOImpl:195 - The result of the 'getAll' function is obtained
+2023-02-08 03:16:44 INFO  BookServiceImpl:134 - The result of the 'getAll' function is obtained
+2023-02-08 03:16:44 INFO  Listener:44 - :HttpSessionBindingEvent:jakarta.servlet.jsp.jstl.fmt.request.charset:utf-8
+2023-02-08 03:16:45 INFO  BookDAOImpl:108 - The result of the 'getCount' function is obtained
+2023-02-08 03:16:45 INFO  BookServiceImpl:92 - The result of the 'getCountBooksByTitle' function is obtained
+2023-02-08 03:16:45 INFO  BookDAOImpl:195 - The result of the 'getAll' function is obtained
+2023-02-08 03:16:45 INFO  BookServiceImpl:134 - The result of the 'getAll' function is obtained
+2023-02-08 03:16:45 INFO  Listener:44 - :HttpSessionBindingEvent:jakarta.servlet.jsp.jstl.fmt.request.charset:utf-8
+2023-02-08 03:16:48 INFO  PassDAOImpl:191 - The 'add' function has been completed
+2023-02-08 03:16:48 INFO  PassDAOImpl:80 - The result of the 'getBooksById' function is obtained
+2023-02-08 03:16:48 INFO  PassServiceImpl:54 - The result of the 'getBooksById' function is obtained
+2023-02-08 03:16:48 INFO  BookDAOImpl:357 - The 'changeNumber' function has been completed
+2023-02-08 03:16:48 INFO  BookServiceImpl:220 - The 'changeNumber' function has been completed
+2023-02-08 03:16:48 INFO  BookDAOImpl:357 - The 'changeNumber' function has been completed
+2023-02-08 03:16:48 INFO  BookServiceImpl:220 - The 'changeNumber' function has been completed
+2023-02-08 03:16:48 INFO  PassDAOImpl:48 - The 'finishPass' function has been completed
+2023-02-08 03:16:48 INFO  PassServiceImpl:35 - The 'finishPass' function has been completed
+2023-02-08 03:16:48 INFO  PassDAOImpl:134 - The result of the 'getAll' function is obtained
+2023-02-08 03:16:48 INFO  PassServiceImpl:143 - The 'add' function has been completed
+2023-02-08 03:16:48 INFO  OrderDAOImpl:157 - The result of the 'getAll' function is obtained
+2023-02-08 03:16:48 INFO  OrderServiceImpl:84 - The result of the 'getAll' function is obtained
+2023-02-08 03:16:48 INFO  PassDAOImpl:134 - The result of the 'getAll' function is obtained
+2023-02-08 03:16:48 INFO  PassServiceImpl:94 - The result of the 'getAll' function is obtained
+2023-02-08 03:16:48 INFO  BookDAOImpl:108 - The result of the 'getCount' function is obtained
+2023-02-08 03:16:48 INFO  BookServiceImpl:92 - The result of the 'getCountBooksByTitle' function is obtained
+2023-02-08 03:16:48 INFO  BookDAOImpl:195 - The result of the 'getAll' function is obtained
+2023-02-08 03:16:48 INFO  BookServiceImpl:134 - The result of the 'getAll' function is obtained
+2023-02-08 03:16:48 INFO  Listener:44 - :HttpSessionBindingEvent:jakarta.servlet.jsp.jstl.fmt.request.charset:utf-8
+2023-02-08 03:16:48 INFO  BookDAOImpl:108 - The result of the 'getCount' function is obtained
+2023-02-08 03:16:48 INFO  BookServiceImpl:92 - The result of the 'getCountBooksByTitle' function is obtained
+2023-02-08 03:16:48 INFO  BookDAOImpl:195 - The result of the 'getAll' function is obtained
+2023-02-08 03:16:48 INFO  BookServiceImpl:134 - The result of the 'getAll' function is obtained
+2023-02-08 03:16:48 INFO  Listener:44 - :HttpSessionBindingEvent:jakarta.servlet.jsp.jstl.fmt.request.charset:utf-8
+2023-02-08 03:16:57 INFO  Listener:60 - Session attribute removed: HttpSessionBindingEvent : password : GRENG2016
+2023-02-08 03:16:57 INFO  Listener:60 - Session attribute removed: HttpSessionBindingEvent : emailAddress : newLibrarian@gmail.com
+2023-02-08 03:16:57 INFO  Listener:60 - Session attribute removed: HttpSessionBindingEvent : role : librarian
+2023-02-08 03:16:57 INFO  Listener:60 - Session attribute removed: HttpSessionBindingEvent : lockStatus : UNLOCKED
+2023-02-08 03:16:57 INFO  Listener:60 - Session attribute removed: HttpSessionBindingEvent : language : eng
+2023-02-08 03:16:57 INFO  Listener:60 - Session attribute removed: HttpSessionBindingEvent : userName : librarian
+2023-02-08 03:16:57 INFO  Listener:60 - Session attribute removed: HttpSessionBindingEvent : jakarta.servlet.jsp.jstl.fmt.request.charset : utf-8
+2023-02-08 03:16:57 INFO  Listener:60 - Session attribute removed: HttpSessionBindingEvent : userId : 54
+2023-02-08 03:16:57 INFO  Listener:29 - Session attribute added: HttpSessionBindingEvent : language : eng
+2023-02-08 03:16:57 INFO  BookDAOImpl:108 - The result of the 'getCount' function is obtained
+2023-02-08 03:16:57 INFO  BookServiceImpl:92 - The result of the 'getCountBooksByTitle' function is obtained
+2023-02-08 03:16:57 INFO  BookDAOImpl:195 - The result of the 'getAll' function is obtained
+2023-02-08 03:16:57 INFO  BookServiceImpl:134 - The result of the 'getAll' function is obtained
+2023-02-08 03:16:57 INFO  Listener:29 - Session attribute added: HttpSessionBindingEvent : jakarta.servlet.jsp.jstl.fmt.request.charset : utf-8
+2023-02-08 03:16:58 INFO  BookDAOImpl:108 - The result of the 'getCount' function is obtained
+2023-02-08 03:16:58 INFO  BookServiceImpl:92 - The result of the 'getCountBooksByTitle' function is obtained
+2023-02-08 03:16:58 INFO  BookDAOImpl:195 - The result of the 'getAll' function is obtained
+2023-02-08 03:16:58 INFO  BookServiceImpl:134 - The result of the 'getAll' function is obtained
+2023-02-08 03:16:58 INFO  Listener:44 - :HttpSessionBindingEvent:jakarta.servlet.jsp.jstl.fmt.request.charset:utf-8
+2023-02-08 03:16:58 INFO  BookDAOImpl:108 - The result of the 'getCount' function is obtained
+2023-02-08 03:16:58 INFO  BookServiceImpl:92 - The result of the 'getCountBooksByTitle' function is obtained
+2023-02-08 03:16:58 INFO  BookDAOImpl:195 - The result of the 'getAll' function is obtained
+2023-02-08 03:16:58 INFO  BookServiceImpl:134 - The result of the 'getAll' function is obtained
+2023-02-08 03:16:58 INFO  Listener:44 - :HttpSessionBindingEvent:jakarta.servlet.jsp.jstl.fmt.request.charset:utf-8
+2023-02-08 03:16:59 INFO  Listener:44 - :HttpSessionBindingEvent:jakarta.servlet.jsp.jstl.fmt.request.charset:utf-8
+2023-02-08 03:16:59 INFO  BookDAOImpl:108 - The result of the 'getCount' function is obtained
+2023-02-08 03:16:59 INFO  BookServiceImpl:92 - The result of the 'getCountBooksByTitle' function is obtained
+2023-02-08 03:16:59 INFO  BookDAOImpl:195 - The result of the 'getAll' function is obtained
+2023-02-08 03:16:59 INFO  BookServiceImpl:134 - The result of the 'getAll' function is obtained
+2023-02-08 03:16:59 INFO  Listener:44 - :HttpSessionBindingEvent:jakarta.servlet.jsp.jstl.fmt.request.charset:utf-8
+2023-02-08 03:16:59 INFO  BookDAOImpl:108 - The result of the 'getCount' function is obtained
+2023-02-08 03:16:59 INFO  BookServiceImpl:92 - The result of the 'getCountBooksByTitle' function is obtained
+2023-02-08 03:16:59 INFO  BookDAOImpl:195 - The result of the 'getAll' function is obtained
+2023-02-08 03:16:59 INFO  BookServiceImpl:134 - The result of the 'getAll' function is obtained
+2023-02-08 03:16:59 INFO  Listener:44 - :HttpSessionBindingEvent:jakarta.servlet.jsp.jstl.fmt.request.charset:utf-8
+2023-02-08 03:17:05 INFO  UserDAOImpl:96 - The result of the 'getByEmailAndPassword' function is obtained
+2023-02-08 03:17:05 INFO  UserServiceImpl:75 - The result of the 'getByEmailAndPassword' function is obtained
+2023-02-08 03:17:05 INFO  Listener:29 - Session attribute added: HttpSessionBindingEvent : password : GRENG2016
+2023-02-08 03:17:05 INFO  Listener:29 - Session attribute added: HttpSessionBindingEvent : userName : adminnnn
+2023-02-08 03:17:05 INFO  Listener:29 - Session attribute added: HttpSessionBindingEvent : emailAddress : ihorr12r@gmail.com
+2023-02-08 03:17:05 INFO  Listener:29 - Session attribute added: HttpSessionBindingEvent : role : admin
+2023-02-08 03:17:05 INFO  Listener:29 - Session attribute added: HttpSessionBindingEvent : userId : 18
+2023-02-08 03:17:05 INFO  Listener:29 - Session attribute added: HttpSessionBindingEvent : lockStatus : UNLOCKED
+2023-02-08 03:17:05 INFO  BookDAOImpl:108 - The result of the 'getCount' function is obtained
+2023-02-08 03:17:05 INFO  BookServiceImpl:92 - The result of the 'getCountBooksByTitle' function is obtained
+2023-02-08 03:17:05 INFO  BookDAOImpl:261 - The result of the 'getTranslation' function is obtained
+2023-02-08 03:17:05 INFO  BookDAOImpl:261 - The result of the 'getTranslation' function is obtained
+2023-02-08 03:17:05 INFO  BookDAOImpl:261 - The result of the 'getTranslation' function is obtained
+2023-02-08 03:17:05 INFO  BookDAOImpl:261 - The result of the 'getTranslation' function is obtained
+2023-02-08 03:17:05 INFO  BookDAOImpl:261 - The result of the 'getTranslation' function is obtained
+2023-02-08 03:17:05 INFO  BookDAOImpl:232 - The result of the 'getAllForAdmin' function is obtained
+2023-02-08 03:17:05 INFO  BookServiceImpl:155 - The result of the 'getAllForAdmin' function is obtained
+2023-02-08 03:17:05 INFO  LibrarianDAOImpl:91 - The result of the 'getAll' function is obtained
+2023-02-08 03:17:05 INFO  LibrarianServiceImpl:68 - The result of the 'getAll' function is obtained
+2023-02-08 03:17:05 INFO  UserDAOImpl:157 - The result of the 'getAll' function at UserDaoImpl is not obtained
+2023-02-08 03:17:05 INFO  UserServiceImpl:115 - The result of the 'getAll' function at UserDaoImpl is not obtained
+2023-02-08 03:17:06 INFO  BookDAOImpl:108 - The result of the 'getCount' function is obtained
+2023-02-08 03:17:06 INFO  BookServiceImpl:92 - The result of the 'getCountBooksByTitle' function is obtained
+2023-02-08 03:17:06 INFO  BookDAOImpl:195 - The result of the 'getAll' function is obtained
+2023-02-08 03:17:06 INFO  BookServiceImpl:134 - The result of the 'getAll' function is obtained
+2023-02-08 03:17:06 INFO  Listener:44 - :HttpSessionBindingEvent:jakarta.servlet.jsp.jstl.fmt.request.charset:utf-8
+2023-02-08 03:17:06 INFO  BookDAOImpl:108 - The result of the 'getCount' function is obtained
+2023-02-08 03:17:06 INFO  BookServiceImpl:92 - The result of the 'getCountBooksByTitle' function is obtained
+2023-02-08 03:17:06 INFO  BookDAOImpl:195 - The result of the 'getAll' function is obtained
+2023-02-08 03:17:06 INFO  BookServiceImpl:134 - The result of the 'getAll' function is obtained
+2023-02-08 03:17:06 INFO  Listener:44 - :HttpSessionBindingEvent:jakarta.servlet.jsp.jstl.fmt.request.charset:utf-8
+2023-02-08 03:17:34 INFO  BookDAOImpl:108 - The result of the 'getCount' function is obtained
+2023-02-08 03:17:34 INFO  BookServiceImpl:92 - The result of the 'getCountBooksByTitle' function is obtained
+2023-02-08 03:17:34 INFO  BookDAOImpl:195 - The result of the 'getAll' function is obtained
+2023-02-08 03:17:34 INFO  BookServiceImpl:134 - The result of the 'getAll' function is obtained
+2023-02-08 03:17:34 INFO  Listener:44 - :HttpSessionBindingEvent:jakarta.servlet.jsp.jstl.fmt.request.charset:utf-8
+2023-02-08 03:17:42 INFO  Listener:29 - Session attribute added: HttpSessionBindingEvent : popUps : valid
+2023-02-08 03:17:42 INFO  BookDAOImpl:108 - The result of the 'getCount' function is obtained
+2023-02-08 03:17:42 INFO  BookServiceImpl:92 - The result of the 'getCountBooksByTitle' function is obtained
+2023-02-08 03:17:42 INFO  BookDAOImpl:261 - The result of the 'getTranslation' function is obtained
+2023-02-08 03:17:42 INFO  BookDAOImpl:261 - The result of the 'getTranslation' function is obtained
+2023-02-08 03:17:42 INFO  BookDAOImpl:261 - The result of the 'getTranslation' function is obtained
+2023-02-08 03:17:42 INFO  BookDAOImpl:261 - The result of the 'getTranslation' function is obtained
+2023-02-08 03:17:42 INFO  BookDAOImpl:261 - The result of the 'getTranslation' function is obtained
+2023-02-08 03:17:42 INFO  BookDAOImpl:232 - The result of the 'getAllForAdmin' function is obtained
+2023-02-08 03:17:42 INFO  BookServiceImpl:155 - The result of the 'getAllForAdmin' function is obtained
+2023-02-08 03:17:42 INFO  LibrarianDAOImpl:91 - The result of the 'getAll' function is obtained
+2023-02-08 03:17:42 INFO  LibrarianServiceImpl:68 - The result of the 'getAll' function is obtained
+2023-02-08 03:17:42 INFO  UserDAOImpl:157 - The result of the 'getAll' function at UserDaoImpl is not obtained
+2023-02-08 03:17:42 INFO  UserServiceImpl:115 - The result of the 'getAll' function at UserDaoImpl is not obtained
+2023-02-08 03:17:42 INFO  Listener:60 - Session attribute removed: HttpSessionBindingEvent : popUps : valid
+2023-02-08 03:17:42 INFO  BookDAOImpl:108 - The result of the 'getCount' function is obtained
+2023-02-08 03:17:42 INFO  BookServiceImpl:92 - The result of the 'getCountBooksByTitle' function is obtained
+2023-02-08 03:17:43 INFO  BookDAOImpl:195 - The result of the 'getAll' function is obtained
+2023-02-08 03:17:43 INFO  BookServiceImpl:134 - The result of the 'getAll' function is obtained
+2023-02-08 03:17:43 INFO  Listener:44 - :HttpSessionBindingEvent:jakarta.servlet.jsp.jstl.fmt.request.charset:utf-8
+2023-02-08 03:17:43 INFO  BookDAOImpl:108 - The result of the 'getCount' function is obtained
+2023-02-08 03:17:43 INFO  BookServiceImpl:92 - The result of the 'getCountBooksByTitle' function is obtained
+2023-02-08 03:17:43 INFO  BookDAOImpl:195 - The result of the 'getAll' function is obtained
+2023-02-08 03:17:43 INFO  BookServiceImpl:134 - The result of the 'getAll' function is obtained
+2023-02-08 03:17:43 INFO  Listener:44 - :HttpSessionBindingEvent:jakarta.servlet.jsp.jstl.fmt.request.charset:utf-8
+2023-02-08 03:17:52 INFO  BookDAOImpl:108 - The result of the 'getCount' function is obtained
+2023-02-08 03:17:52 INFO  BookServiceImpl:92 - The result of the 'getCountBooksByTitle' function is obtained
+2023-02-08 03:17:52 INFO  BookDAOImpl:195 - The result of the 'getAll' function is obtained
+2023-02-08 03:17:52 INFO  BookServiceImpl:134 - The result of the 'getAll' function is obtained
+2023-02-08 03:17:52 INFO  Listener:44 - :HttpSessionBindingEvent:jakarta.servlet.jsp.jstl.fmt.request.charset:utf-8
+2023-02-08 03:17:58 INFO  BookDAOImpl:108 - The result of the 'getCount' function is obtained
+2023-02-08 03:17:58 INFO  BookServiceImpl:92 - The result of the 'getCountBooksByTitle' function is obtained
+2023-02-08 03:17:58 INFO  BookDAOImpl:195 - The result of the 'getAll' function is obtained
+2023-02-08 03:17:58 INFO  BookServiceImpl:134 - The result of the 'getAll' function is obtained
+2023-02-08 03:17:58 INFO  Listener:44 - :HttpSessionBindingEvent:jakarta.servlet.jsp.jstl.fmt.request.charset:utf-8
+2023-02-08 03:18:00 INFO  BookDAOImpl:108 - The result of the 'getCount' function is obtained
+2023-02-08 03:18:00 INFO  BookServiceImpl:92 - The result of the 'getCountBooksByTitle' function is obtained
+2023-02-08 03:18:00 INFO  BookDAOImpl:261 - The result of the 'getTranslation' function is obtained
+2023-02-08 03:18:00 INFO  BookDAOImpl:261 - The result of the 'getTranslation' function is obtained
+2023-02-08 03:18:00 INFO  BookDAOImpl:261 - The result of the 'getTranslation' function is obtained
+2023-02-08 03:18:00 INFO  BookDAOImpl:261 - The result of the 'getTranslation' function is obtained
+2023-02-08 03:18:00 INFO  BookDAOImpl:261 - The result of the 'getTranslation' function is obtained
+2023-02-08 03:18:00 INFO  BookDAOImpl:232 - The result of the 'getAllForAdmin' function is obtained
+2023-02-08 03:18:00 INFO  BookServiceImpl:155 - The result of the 'getAllForAdmin' function is obtained
+2023-02-08 03:18:00 INFO  LibrarianDAOImpl:91 - The result of the 'getAll' function is obtained
+2023-02-08 03:18:00 INFO  LibrarianServiceImpl:68 - The result of the 'getAll' function is obtained
+2023-02-08 03:18:00 INFO  UserDAOImpl:157 - The result of the 'getAll' function at UserDaoImpl is not obtained
+2023-02-08 03:18:00 INFO  UserServiceImpl:115 - The result of the 'getAll' function at UserDaoImpl is not obtained
+2023-02-08 03:18:00 INFO  BookDAOImpl:108 - The result of the 'getCount' function is obtained
+2023-02-08 03:18:00 INFO  BookServiceImpl:92 - The result of the 'getCountBooksByTitle' function is obtained
+2023-02-08 03:18:00 INFO  BookDAOImpl:195 - The result of the 'getAll' function is obtained
+2023-02-08 03:18:00 INFO  BookServiceImpl:134 - The result of the 'getAll' function is obtained
+2023-02-08 03:18:00 INFO  Listener:44 - :HttpSessionBindingEvent:jakarta.servlet.jsp.jstl.fmt.request.charset:utf-8
+2023-02-08 03:18:00 INFO  BookDAOImpl:108 - The result of the 'getCount' function is obtained
+2023-02-08 03:18:00 INFO  BookServiceImpl:92 - The result of the 'getCountBooksByTitle' function is obtained
+2023-02-08 03:18:00 INFO  BookDAOImpl:195 - The result of the 'getAll' function is obtained
+2023-02-08 03:18:00 INFO  BookServiceImpl:134 - The result of the 'getAll' function is obtained
+2023-02-08 03:18:00 INFO  Listener:44 - :HttpSessionBindingEvent:jakarta.servlet.jsp.jstl.fmt.request.charset:utf-8
+2023-02-08 03:18:07 INFO  BookDAOImpl:426 - The 'delete' function has been completed
+2023-02-08 03:18:07 INFO  BookServiceImpl:255 - The 'delete' function has been completed
+2023-02-08 03:18:07 INFO  BookDAOImpl:108 - The result of the 'getCount' function is obtained
+2023-02-08 03:18:07 INFO  BookServiceImpl:92 - The result of the 'getCountBooksByTitle' function is obtained
+2023-02-08 03:18:07 INFO  BookDAOImpl:261 - The result of the 'getTranslation' function is obtained
+2023-02-08 03:18:07 INFO  BookDAOImpl:261 - The result of the 'getTranslation' function is obtained
+2023-02-08 03:18:07 INFO  BookDAOImpl:261 - The result of the 'getTranslation' function is obtained
+2023-02-08 03:18:07 INFO  BookDAOImpl:261 - The result of the 'getTranslation' function is obtained
+2023-02-08 03:18:07 INFO  BookDAOImpl:261 - The result of the 'getTranslation' function is obtained
+2023-02-08 03:18:07 INFO  BookDAOImpl:232 - The result of the 'getAllForAdmin' function is obtained
+2023-02-08 03:18:07 INFO  BookServiceImpl:155 - The result of the 'getAllForAdmin' function is obtained
+2023-02-08 03:18:07 INFO  LibrarianDAOImpl:91 - The result of the 'getAll' function is obtained
+2023-02-08 03:18:07 INFO  LibrarianServiceImpl:68 - The result of the 'getAll' function is obtained
+2023-02-08 03:18:07 INFO  UserDAOImpl:157 - The result of the 'getAll' function at UserDaoImpl is not obtained
+2023-02-08 03:18:07 INFO  UserServiceImpl:115 - The result of the 'getAll' function at UserDaoImpl is not obtained
+2023-02-08 03:18:07 INFO  BookDAOImpl:108 - The result of the 'getCount' function is obtained
+2023-02-08 03:18:07 INFO  BookServiceImpl:92 - The result of the 'getCountBooksByTitle' function is obtained
+2023-02-08 03:18:07 INFO  BookDAOImpl:195 - The result of the 'getAll' function is obtained
+2023-02-08 03:18:07 INFO  BookServiceImpl:134 - The result of the 'getAll' function is obtained
+2023-02-08 03:18:07 INFO  Listener:44 - :HttpSessionBindingEvent:jakarta.servlet.jsp.jstl.fmt.request.charset:utf-8
+2023-02-08 03:18:07 INFO  BookDAOImpl:108 - The result of the 'getCount' function is obtained
+2023-02-08 03:18:07 INFO  BookServiceImpl:92 - The result of the 'getCountBooksByTitle' function is obtained
+2023-02-08 03:18:07 INFO  BookDAOImpl:195 - The result of the 'getAll' function is obtained
+2023-02-08 03:18:07 INFO  BookServiceImpl:134 - The result of the 'getAll' function is obtained
+2023-02-08 03:18:07 INFO  Listener:44 - :HttpSessionBindingEvent:jakarta.servlet.jsp.jstl.fmt.request.charset:utf-8
+2023-02-08 03:18:10 INFO  BookDAOImpl:108 - The result of the 'getCount' function is obtained
+2023-02-08 03:18:10 INFO  BookServiceImpl:92 - The result of the 'getCountBooksByTitle' function is obtained
+2023-02-08 03:18:10 INFO  BookDAOImpl:261 - The result of the 'getTranslation' function is obtained
+2023-02-08 03:18:10 INFO  BookDAOImpl:261 - The result of the 'getTranslation' function is obtained
+2023-02-08 03:18:10 INFO  BookDAOImpl:261 - The result of the 'getTranslation' function is obtained
+2023-02-08 03:18:10 INFO  BookDAOImpl:261 - The result of the 'getTranslation' function is obtained
+2023-02-08 03:18:10 INFO  BookDAOImpl:232 - The result of the 'getAllForAdmin' function is obtained
+2023-02-08 03:18:10 INFO  BookServiceImpl:155 - The result of the 'getAllForAdmin' function is obtained
+2023-02-08 03:18:10 INFO  LibrarianDAOImpl:91 - The result of the 'getAll' function is obtained
+2023-02-08 03:18:10 INFO  LibrarianServiceImpl:68 - The result of the 'getAll' function is obtained
+2023-02-08 03:18:10 INFO  UserDAOImpl:157 - The result of the 'getAll' function at UserDaoImpl is not obtained
+2023-02-08 03:18:10 INFO  UserServiceImpl:115 - The result of the 'getAll' function at UserDaoImpl is not obtained
+2023-02-08 03:18:11 INFO  BookDAOImpl:108 - The result of the 'getCount' function is obtained
+2023-02-08 03:18:11 INFO  BookServiceImpl:92 - The result of the 'getCountBooksByTitle' function is obtained
+2023-02-08 03:18:11 INFO  BookDAOImpl:195 - The result of the 'getAll' function is obtained
+2023-02-08 03:18:11 INFO  BookServiceImpl:134 - The result of the 'getAll' function is obtained
+2023-02-08 03:18:11 INFO  Listener:44 - :HttpSessionBindingEvent:jakarta.servlet.jsp.jstl.fmt.request.charset:utf-8
+2023-02-08 03:18:12 INFO  BookDAOImpl:108 - The result of the 'getCount' function is obtained
+2023-02-08 03:18:12 INFO  BookServiceImpl:92 - The result of the 'getCountBooksByTitle' function is obtained
+2023-02-08 03:18:12 INFO  BookDAOImpl:261 - The result of the 'getTranslation' function is obtained
+2023-02-08 03:18:12 INFO  BookDAOImpl:261 - The result of the 'getTranslation' function is obtained
+2023-02-08 03:18:12 INFO  BookDAOImpl:261 - The result of the 'getTranslation' function is obtained
+2023-02-08 03:18:12 INFO  BookDAOImpl:261 - The result of the 'getTranslation' function is obtained
+2023-02-08 03:18:12 INFO  BookDAOImpl:261 - The result of the 'getTranslation' function is obtained
+2023-02-08 03:18:12 INFO  BookDAOImpl:232 - The result of the 'getAllForAdmin' function is obtained
+2023-02-08 03:18:12 INFO  BookServiceImpl:155 - The result of the 'getAllForAdmin' function is obtained
+2023-02-08 03:18:12 INFO  LibrarianDAOImpl:91 - The result of the 'getAll' function is obtained
+2023-02-08 03:18:12 INFO  LibrarianServiceImpl:68 - The result of the 'getAll' function is obtained
+2023-02-08 03:18:12 INFO  UserDAOImpl:157 - The result of the 'getAll' function at UserDaoImpl is not obtained
+2023-02-08 03:18:12 INFO  UserServiceImpl:115 - The result of the 'getAll' function at UserDaoImpl is not obtained
+2023-02-08 03:18:12 INFO  BookDAOImpl:108 - The result of the 'getCount' function is obtained
+2023-02-08 03:18:12 INFO  BookServiceImpl:92 - The result of the 'getCountBooksByTitle' function is obtained
+2023-02-08 03:18:12 INFO  BookDAOImpl:195 - The result of the 'getAll' function is obtained
+2023-02-08 03:18:12 INFO  BookServiceImpl:134 - The result of the 'getAll' function is obtained
+2023-02-08 03:18:12 INFO  Listener:44 - :HttpSessionBindingEvent:jakarta.servlet.jsp.jstl.fmt.request.charset:utf-8
+2023-02-08 03:18:12 INFO  BookDAOImpl:108 - The result of the 'getCount' function is obtained
+2023-02-08 03:18:12 INFO  BookServiceImpl:92 - The result of the 'getCountBooksByTitle' function is obtained
+2023-02-08 03:18:12 INFO  BookDAOImpl:195 - The result of the 'getAll' function is obtained
+2023-02-08 03:18:12 INFO  BookServiceImpl:134 - The result of the 'getAll' function is obtained
+2023-02-08 03:18:12 INFO  Listener:44 - :HttpSessionBindingEvent:jakarta.servlet.jsp.jstl.fmt.request.charset:utf-8
+2023-02-08 03:18:16 INFO  BookDAOImpl:108 - The result of the 'getCount' function is obtained
+2023-02-08 03:18:16 INFO  BookServiceImpl:92 - The result of the 'getCountBooksByTitle' function is obtained
+2023-02-08 03:18:16 INFO  BookDAOImpl:195 - The result of the 'getAll' function is obtained
+2023-02-08 03:18:16 INFO  BookServiceImpl:134 - The result of the 'getAll' function is obtained
+2023-02-08 03:18:16 INFO  Listener:44 - :HttpSessionBindingEvent:jakarta.servlet.jsp.jstl.fmt.request.charset:utf-8
+2023-02-08 03:18:16 INFO  BookDAOImpl:108 - The result of the 'getCount' function is obtained
+2023-02-08 03:18:16 INFO  BookServiceImpl:92 - The result of the 'getCountBooksByTitle' function is obtained
+2023-02-08 03:18:16 INFO  BookDAOImpl:261 - The result of the 'getTranslation' function is obtained
+2023-02-08 03:18:16 INFO  BookDAOImpl:261 - The result of the 'getTranslation' function is obtained
+2023-02-08 03:18:16 INFO  BookDAOImpl:261 - The result of the 'getTranslation' function is obtained
+2023-02-08 03:18:16 INFO  BookDAOImpl:261 - The result of the 'getTranslation' function is obtained
+2023-02-08 03:18:16 INFO  BookDAOImpl:261 - The result of the 'getTranslation' function is obtained
+2023-02-08 03:18:16 INFO  BookDAOImpl:232 - The result of the 'getAllForAdmin' function is obtained
+2023-02-08 03:18:16 INFO  BookServiceImpl:155 - The result of the 'getAllForAdmin' function is obtained
+2023-02-08 03:18:16 INFO  LibrarianDAOImpl:91 - The result of the 'getAll' function is obtained
+2023-02-08 03:18:16 INFO  LibrarianServiceImpl:68 - The result of the 'getAll' function is obtained
+2023-02-08 03:18:16 INFO  UserDAOImpl:157 - The result of the 'getAll' function at UserDaoImpl is not obtained
+2023-02-08 03:18:16 INFO  UserServiceImpl:115 - The result of the 'getAll' function at UserDaoImpl is not obtained
+2023-02-08 03:18:17 INFO  BookDAOImpl:108 - The result of the 'getCount' function is obtained
+2023-02-08 03:18:17 INFO  BookServiceImpl:92 - The result of the 'getCountBooksByTitle' function is obtained
+2023-02-08 03:18:17 INFO  BookDAOImpl:195 - The result of the 'getAll' function is obtained
+2023-02-08 03:18:17 INFO  BookServiceImpl:134 - The result of the 'getAll' function is obtained
+2023-02-08 03:18:17 INFO  Listener:44 - :HttpSessionBindingEvent:jakarta.servlet.jsp.jstl.fmt.request.charset:utf-8
+2023-02-08 03:18:17 INFO  BookDAOImpl:108 - The result of the 'getCount' function is obtained
+2023-02-08 03:18:17 INFO  BookServiceImpl:92 - The result of the 'getCountBooksByTitle' function is obtained
+2023-02-08 03:18:17 INFO  BookDAOImpl:195 - The result of the 'getAll' function is obtained
+2023-02-08 03:18:17 INFO  BookServiceImpl:134 - The result of the 'getAll' function is obtained
+2023-02-08 03:18:17 INFO  Listener:44 - :HttpSessionBindingEvent:jakarta.servlet.jsp.jstl.fmt.request.charset:utf-8
+2023-02-08 03:18:40 INFO  UserDAOImpl:180 - The 'block' function has been completed
+2023-02-08 03:18:40 INFO  UserServiceImpl:134 - The 'block' function has been completed
+2023-02-08 03:18:40 INFO  BookDAOImpl:108 - The result of the 'getCount' function is obtained
+2023-02-08 03:18:40 INFO  BookServiceImpl:92 - The result of the 'getCountBooksByTitle' function is obtained
+2023-02-08 03:18:40 INFO  BookDAOImpl:261 - The result of the 'getTranslation' function is obtained
+2023-02-08 03:18:40 INFO  BookDAOImpl:261 - The result of the 'getTranslation' function is obtained
+2023-02-08 03:18:40 INFO  BookDAOImpl:261 - The result of the 'getTranslation' function is obtained
+2023-02-08 03:18:40 INFO  BookDAOImpl:261 - The result of the 'getTranslation' function is obtained
+2023-02-08 03:18:40 INFO  BookDAOImpl:261 - The result of the 'getTranslation' function is obtained
+2023-02-08 03:18:40 INFO  BookDAOImpl:232 - The result of the 'getAllForAdmin' function is obtained
+2023-02-08 03:18:40 INFO  BookServiceImpl:155 - The result of the 'getAllForAdmin' function is obtained
+2023-02-08 03:18:40 INFO  LibrarianDAOImpl:91 - The result of the 'getAll' function is obtained
+2023-02-08 03:18:40 INFO  LibrarianServiceImpl:68 - The result of the 'getAll' function is obtained
+2023-02-08 03:18:40 INFO  UserDAOImpl:157 - The result of the 'getAll' function at UserDaoImpl is not obtained
+2023-02-08 03:18:40 INFO  UserServiceImpl:115 - The result of the 'getAll' function at UserDaoImpl is not obtained
+2023-02-08 03:18:40 INFO  BookDAOImpl:108 - The result of the 'getCount' function is obtained
+2023-02-08 03:18:40 INFO  BookServiceImpl:92 - The result of the 'getCountBooksByTitle' function is obtained
+2023-02-08 03:18:40 INFO  BookDAOImpl:195 - The result of the 'getAll' function is obtained
+2023-02-08 03:18:40 INFO  BookServiceImpl:134 - The result of the 'getAll' function is obtained
+2023-02-08 03:18:40 INFO  Listener:44 - :HttpSessionBindingEvent:jakarta.servlet.jsp.jstl.fmt.request.charset:utf-8
+2023-02-08 03:18:40 INFO  BookDAOImpl:108 - The result of the 'getCount' function is obtained
+2023-02-08 03:18:40 INFO  BookServiceImpl:92 - The result of the 'getCountBooksByTitle' function is obtained
+2023-02-08 03:18:40 INFO  BookDAOImpl:195 - The result of the 'getAll' function is obtained
+2023-02-08 03:18:40 INFO  BookServiceImpl:134 - The result of the 'getAll' function is obtained
+2023-02-08 03:18:40 INFO  Listener:44 - :HttpSessionBindingEvent:jakarta.servlet.jsp.jstl.fmt.request.charset:utf-8
+2023-02-08 03:18:43 INFO  LibrarianDAOImpl:66 - The 'delete' function has been completed
+2023-02-08 03:18:43 INFO  LibrarianServiceImpl:50 - The 'delete' function has been completed
+2023-02-08 03:18:43 INFO  BookDAOImpl:108 - The result of the 'getCount' function is obtained
+2023-02-08 03:18:43 INFO  BookServiceImpl:92 - The result of the 'getCountBooksByTitle' function is obtained
+2023-02-08 03:18:43 INFO  BookDAOImpl:261 - The result of the 'getTranslation' function is obtained
+2023-02-08 03:18:43 INFO  BookDAOImpl:261 - The result of the 'getTranslation' function is obtained
+2023-02-08 03:18:43 INFO  BookDAOImpl:261 - The result of the 'getTranslation' function is obtained
+2023-02-08 03:18:43 INFO  BookDAOImpl:261 - The result of the 'getTranslation' function is obtained
+2023-02-08 03:18:43 INFO  BookDAOImpl:261 - The result of the 'getTranslation' function is obtained
+2023-02-08 03:18:43 INFO  BookDAOImpl:232 - The result of the 'getAllForAdmin' function is obtained
+2023-02-08 03:18:43 INFO  BookServiceImpl:155 - The result of the 'getAllForAdmin' function is obtained
+2023-02-08 03:18:44 INFO  LibrarianDAOImpl:91 - The result of the 'getAll' function is obtained
+2023-02-08 03:18:44 INFO  LibrarianServiceImpl:68 - The result of the 'getAll' function is obtained
+2023-02-08 03:18:44 INFO  UserDAOImpl:157 - The result of the 'getAll' function at UserDaoImpl is not obtained
+2023-02-08 03:18:44 INFO  UserServiceImpl:115 - The result of the 'getAll' function at UserDaoImpl is not obtained
+2023-02-08 03:18:44 INFO  BookDAOImpl:108 - The result of the 'getCount' function is obtained
+2023-02-08 03:18:44 INFO  BookServiceImpl:92 - The result of the 'getCountBooksByTitle' function is obtained
+2023-02-08 03:18:44 INFO  BookDAOImpl:195 - The result of the 'getAll' function is obtained
+2023-02-08 03:18:44 INFO  BookServiceImpl:134 - The result of the 'getAll' function is obtained
+2023-02-08 03:18:44 INFO  Listener:44 - :HttpSessionBindingEvent:jakarta.servlet.jsp.jstl.fmt.request.charset:utf-8
+2023-02-08 03:18:44 INFO  BookDAOImpl:108 - The result of the 'getCount' function is obtained
+2023-02-08 03:18:44 INFO  BookServiceImpl:92 - The result of the 'getCountBooksByTitle' function is obtained
+2023-02-08 03:18:44 INFO  BookDAOImpl:195 - The result of the 'getAll' function is obtained
+2023-02-08 03:18:44 INFO  BookServiceImpl:134 - The result of the 'getAll' function is obtained
+2023-02-08 03:18:44 INFO  Listener:44 - :HttpSessionBindingEvent:jakarta.servlet.jsp.jstl.fmt.request.charset:utf-8
+2023-02-08 03:18:49 INFO  BookDAOImpl:426 - The 'delete' function has been completed
+2023-02-08 03:18:49 INFO  BookServiceImpl:255 - The 'delete' function has been completed
+2023-02-08 03:18:49 INFO  BookDAOImpl:108 - The result of the 'getCount' function is obtained
+2023-02-08 03:18:49 INFO  BookServiceImpl:92 - The result of the 'getCountBooksByTitle' function is obtained
+2023-02-08 03:18:49 INFO  BookDAOImpl:261 - The result of the 'getTranslation' function is obtained
+2023-02-08 03:18:49 INFO  BookDAOImpl:261 - The result of the 'getTranslation' function is obtained
+2023-02-08 03:18:49 INFO  BookDAOImpl:261 - The result of the 'getTranslation' function is obtained
+2023-02-08 03:18:49 INFO  BookDAOImpl:261 - The result of the 'getTranslation' function is obtained
+2023-02-08 03:18:49 INFO  BookDAOImpl:261 - The result of the 'getTranslation' function is obtained
+2023-02-08 03:18:49 INFO  BookDAOImpl:232 - The result of the 'getAllForAdmin' function is obtained
+2023-02-08 03:18:49 INFO  BookServiceImpl:155 - The result of the 'getAllForAdmin' function is obtained
+2023-02-08 03:18:49 INFO  LibrarianDAOImpl:91 - The result of the 'getAll' function is obtained
+2023-02-08 03:18:49 INFO  LibrarianServiceImpl:68 - The result of the 'getAll' function is obtained
+2023-02-08 03:18:49 INFO  UserDAOImpl:157 - The result of the 'getAll' function at UserDaoImpl is not obtained
+2023-02-08 03:18:49 INFO  UserServiceImpl:115 - The result of the 'getAll' function at UserDaoImpl is not obtained
+2023-02-08 03:18:49 INFO  BookDAOImpl:108 - The result of the 'getCount' function is obtained
+2023-02-08 03:18:49 INFO  BookServiceImpl:92 - The result of the 'getCountBooksByTitle' function is obtained
+2023-02-08 03:18:49 INFO  BookDAOImpl:195 - The result of the 'getAll' function is obtained
+2023-02-08 03:18:49 INFO  BookServiceImpl:134 - The result of the 'getAll' function is obtained
+2023-02-08 03:18:49 INFO  Listener:44 - :HttpSessionBindingEvent:jakarta.servlet.jsp.jstl.fmt.request.charset:utf-8
+2023-02-08 03:18:49 INFO  BookDAOImpl:108 - The result of the 'getCount' function is obtained
+2023-02-08 03:18:49 INFO  BookServiceImpl:92 - The result of the 'getCountBooksByTitle' function is obtained
+2023-02-08 03:18:49 INFO  BookDAOImpl:195 - The result of the 'getAll' function is obtained
+2023-02-08 03:18:49 INFO  BookServiceImpl:134 - The result of the 'getAll' function is obtained
+2023-02-08 03:18:49 INFO  Listener:44 - :HttpSessionBindingEvent:jakarta.servlet.jsp.jstl.fmt.request.charset:utf-8
+2023-02-08 03:18:55 INFO  BookDAOImpl:108 - The result of the 'getCount' function is obtained
+2023-02-08 03:18:55 INFO  BookServiceImpl:92 - The result of the 'getCountBooksByTitle' function is obtained
+2023-02-08 03:18:55 INFO  BookDAOImpl:195 - The result of the 'getAll' function is obtained
+2023-02-08 03:18:55 INFO  BookServiceImpl:134 - The result of the 'getAll' function is obtained
+2023-02-08 03:18:55 INFO  Listener:44 - :HttpSessionBindingEvent:jakarta.servlet.jsp.jstl.fmt.request.charset:utf-8
+2023-02-08 03:19:03 INFO  BookDAOImpl:108 - The result of the 'getCount' function is obtained
+2023-02-08 03:19:03 INFO  BookServiceImpl:92 - The result of the 'getCountBooksByTitle' function is obtained
+2023-02-08 03:19:03 INFO  BookDAOImpl:261 - The result of the 'getTranslation' function is obtained
+2023-02-08 03:19:03 INFO  BookDAOImpl:261 - The result of the 'getTranslation' function is obtained
+2023-02-08 03:19:03 INFO  BookDAOImpl:261 - The result of the 'getTranslation' function is obtained
+2023-02-08 03:19:03 INFO  BookDAOImpl:261 - The result of the 'getTranslation' function is obtained
+2023-02-08 03:19:03 INFO  BookDAOImpl:261 - The result of the 'getTranslation' function is obtained
+2023-02-08 03:19:03 INFO  BookDAOImpl:232 - The result of the 'getAllForAdmin' function is obtained
+2023-02-08 03:19:03 INFO  BookServiceImpl:155 - The result of the 'getAllForAdmin' function is obtained
+2023-02-08 03:19:03 INFO  LibrarianDAOImpl:91 - The result of the 'getAll' function is obtained
+2023-02-08 03:19:03 INFO  LibrarianServiceImpl:68 - The result of the 'getAll' function is obtained
+2023-02-08 03:19:03 INFO  UserDAOImpl:157 - The result of the 'getAll' function at UserDaoImpl is not obtained
+2023-02-08 03:19:03 INFO  UserServiceImpl:115 - The result of the 'getAll' function at UserDaoImpl is not obtained
+2023-02-08 03:19:03 INFO  BookDAOImpl:108 - The result of the 'getCount' function is obtained
+2023-02-08 03:19:03 INFO  BookServiceImpl:92 - The result of the 'getCountBooksByTitle' function is obtained
+2023-02-08 03:19:03 INFO  BookDAOImpl:195 - The result of the 'getAll' function is obtained
+2023-02-08 03:19:03 INFO  BookServiceImpl:134 - The result of the 'getAll' function is obtained
+2023-02-08 03:19:03 INFO  Listener:44 - :HttpSessionBindingEvent:jakarta.servlet.jsp.jstl.fmt.request.charset:utf-8
+2023-02-08 03:19:03 INFO  BookDAOImpl:108 - The result of the 'getCount' function is obtained
+2023-02-08 03:19:03 INFO  BookServiceImpl:92 - The result of the 'getCountBooksByTitle' function is obtained
+2023-02-08 03:19:03 INFO  BookDAOImpl:195 - The result of the 'getAll' function is obtained
+2023-02-08 03:19:03 INFO  BookServiceImpl:134 - The result of the 'getAll' function is obtained
+2023-02-08 03:19:03 INFO  Listener:44 - :HttpSessionBindingEvent:jakarta.servlet.jsp.jstl.fmt.request.charset:utf-8
+2023-02-08 03:19:05 INFO  BookDAOImpl:108 - The result of the 'getCount' function is obtained
+2023-02-08 03:19:05 INFO  BookServiceImpl:92 - The result of the 'getCountBooksByTitle' function is obtained
+2023-02-08 03:19:05 INFO  BookDAOImpl:195 - The result of the 'getAll' function is obtained
+2023-02-08 03:19:05 INFO  BookServiceImpl:134 - The result of the 'getAll' function is obtained
+2023-02-08 03:19:05 INFO  Listener:44 - :HttpSessionBindingEvent:jakarta.servlet.jsp.jstl.fmt.request.charset:utf-8
+2023-02-08 03:19:06 INFO  BookDAOImpl:108 - The result of the 'getCount' function is obtained
+2023-02-08 03:19:06 INFO  BookServiceImpl:92 - The result of the 'getCountBooksByTitle' function is obtained
+2023-02-08 03:19:06 INFO  BookDAOImpl:261 - The result of the 'getTranslation' function is obtained
+2023-02-08 03:19:06 INFO  BookDAOImpl:261 - The result of the 'getTranslation' function is obtained
+2023-02-08 03:19:06 INFO  BookDAOImpl:261 - The result of the 'getTranslation' function is obtained
+2023-02-08 03:19:06 INFO  BookDAOImpl:261 - The result of the 'getTranslation' function is obtained
+2023-02-08 03:19:06 INFO  BookDAOImpl:261 - The result of the 'getTranslation' function is obtained
+2023-02-08 03:19:06 INFO  BookDAOImpl:232 - The result of the 'getAllForAdmin' function is obtained
+2023-02-08 03:19:06 INFO  BookServiceImpl:155 - The result of the 'getAllForAdmin' function is obtained
+2023-02-08 03:19:06 INFO  LibrarianDAOImpl:91 - The result of the 'getAll' function is obtained
+2023-02-08 03:19:06 INFO  LibrarianServiceImpl:68 - The result of the 'getAll' function is obtained
+2023-02-08 03:19:06 INFO  UserDAOImpl:157 - The result of the 'getAll' function at UserDaoImpl is not obtained
+2023-02-08 03:19:06 INFO  UserServiceImpl:115 - The result of the 'getAll' function at UserDaoImpl is not obtained
+2023-02-08 03:19:06 INFO  BookDAOImpl:108 - The result of the 'getCount' function is obtained
+2023-02-08 03:19:06 INFO  BookServiceImpl:92 - The result of the 'getCountBooksByTitle' function is obtained
+2023-02-08 03:19:06 INFO  BookDAOImpl:195 - The result of the 'getAll' function is obtained
+2023-02-08 03:19:06 INFO  BookServiceImpl:134 - The result of the 'getAll' function is obtained
+2023-02-08 03:19:06 INFO  Listener:44 - :HttpSessionBindingEvent:jakarta.servlet.jsp.jstl.fmt.request.charset:utf-8
+2023-02-08 03:19:06 INFO  BookDAOImpl:108 - The result of the 'getCount' function is obtained
+2023-02-08 03:19:06 INFO  BookServiceImpl:92 - The result of the 'getCountBooksByTitle' function is obtained
+2023-02-08 03:19:06 INFO  BookDAOImpl:195 - The result of the 'getAll' function is obtained
+2023-02-08 03:19:06 INFO  BookServiceImpl:134 - The result of the 'getAll' function is obtained
+2023-02-08 03:19:06 INFO  Listener:44 - :HttpSessionBindingEvent:jakarta.servlet.jsp.jstl.fmt.request.charset:utf-8
+2023-02-08 03:21:01 INFO  Listener:60 - Session attribute removed: HttpSessionBindingEvent : language : eng
+2023-02-08 03:21:01 INFO  Listener:60 - Session attribute removed: HttpSessionBindingEvent : jakarta.servlet.jsp.jstl.fmt.request.charset : utf-8
+2023-02-08 03:21:01 INFO  Listener:60 - Session attribute removed: HttpSessionBindingEvent : language : eng
+2023-02-08 03:21:01 INFO  Listener:60 - Session attribute removed: HttpSessionBindingEvent : jakarta.servlet.jsp.jstl.fmt.request.charset : utf-8
+2023-02-08 03:21:01 INFO  Listener:60 - Session attribute removed: HttpSessionBindingEvent : password : GRENG2016
+2023-02-08 03:21:01 INFO  Listener:60 - Session attribute removed: HttpSessionBindingEvent : emailAddress : ihorr12r@gmail.com
+2023-02-08 03:21:01 INFO  Listener:60 - Session attribute removed: HttpSessionBindingEvent : role : admin
+2023-02-08 03:21:01 INFO  Listener:60 - Session attribute removed: HttpSessionBindingEvent : lockStatus : UNLOCKED
+2023-02-08 03:21:01 INFO  Listener:60 - Session attribute removed: HttpSessionBindingEvent : language : eng
+2023-02-08 03:21:01 INFO  Listener:60 - Session attribute removed: HttpSessionBindingEvent : userName : adminnnn
+2023-02-08 03:21:01 INFO  Listener:60 - Session attribute removed: HttpSessionBindingEvent : jakarta.servlet.jsp.jstl.fmt.request.charset : utf-8
+2023-02-08 03:21:01 INFO  Listener:60 - Session attribute removed: HttpSessionBindingEvent : userId : 18
